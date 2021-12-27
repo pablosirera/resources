@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '0 0 21 ? * WED,FRI,SUN *'
+    - cron: '0 21 1/2 * *'
 
 jobs:
   build:
