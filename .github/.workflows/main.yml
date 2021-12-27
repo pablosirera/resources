@@ -1,0 +1,44 @@
+name: Update README.md
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 0 21 ? * WED,FRI,SUN *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+          
+      - name: Use Nodejs
+        uses: actions/setup-node@v1
+        with:
+          node-version: '16.0.0'
+          
+      - name: Install dependencies
+        run: npm install
+          
+      
+      - name: Run update readme
+        run: npm run update-resources
+        env:
+          DATABASE_ID: ${{ secrets.DATABASE_ID }}
+          NOTION_SECRET_KEY: ${{ secrets.NOTION_SECRET_KEY }}
+          
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Pablo Sirera
+          author_email: psirera4@gmail.com
+          message: "Update README with new resources"
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
