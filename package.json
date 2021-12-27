@@ -1,0 +1,17 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "type": "module",
+  "scripts": {
+    "update-resources": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Sirera (https://pablosirera.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^0.4.11",
+    "dotenv": "^10.0.0"
+  }
+}
