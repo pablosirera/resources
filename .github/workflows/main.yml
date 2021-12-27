@@ -20,9 +20,9 @@ jobs:
           token: ${{ secrets.PAT }}
           
       - name: Use Nodejs
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v2
         with:
-          node-version: '16.0.0'
+          node-version: '16'
           
       - name: Install dependencies
         run: npm install
