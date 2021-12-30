@@ -15,7 +15,7 @@ const generateResourcesHTML = (resources) => {
     if (links) {
       let htmlLinks = ''
       links.forEach(link => {
-        htmlLinks = `${htmlLinks}<li><a href="${ link.url }">${ link.caption }</a></li>`
+        htmlLinks = `${htmlLinks}<li><a target="_blank" href="${ link.url }">${ link.caption }</a></li>`
       })
 
     return `
