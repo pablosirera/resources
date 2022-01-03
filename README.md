@@ -3,6 +3,12 @@
 
 
   <span>
+    <strong>Libros Javascript </strong>
+  </span>
+  <li><a target="_blank" href="https://exploringjs.com/impatient-js/">https://exploringjs.com/impatient-js/</a></li><li><a target="_blank" href="https://eloquentjs-es.thedojo.mx/">https://eloquentjs-es.thedojo.mx/</a></li>
+  <br>
+    
+  <span>
     <strong>Box Shadow</strong>
   </span>
   <li><a target="_blank" href="https://www.joshwcomeau.com/shadow-palette/">CSS Shadow Palette Generator</a></li>
@@ -23,7 +29,7 @@
   <span>
     <strong>APIs</strong>
   </span>
-  <li><a target="_blank" href="https://www.thecocktaildb.com/api.php">https://www.thecocktaildb.com/api.php</a></li><li><a target="_blank" href="https://imgflip.com/api">https://imgflip.com/api</a></li>
+  <li><a target="_blank" href="https://www.thecocktaildb.com/api.php">https://www.thecocktaildb.com/api.php</a></li><li><a target="_blank" href="https://imgflip.com/api">https://imgflip.com/api</a></li><li><a target="_blank" href="https://apis.guru/">https://apis.guru/</a></li>
   <br>
     
   <span>
@@ -185,7 +191,7 @@
   <span>
     <strong>Juegos CSS</strong>
   </span>
-  <li><a target="_blank" href="http://www.flexboxdefense.com/">http://www.flexboxdefense.com/</a></li><li><a target="_blank" href="https://t.co/zBB93Uql6i?amp=1">https://t.co/zBB93Uql6i?amp=1</a></li><li><a target="_blank" href="https://flukeout.github.io">https://flukeout.github.io</a></li><li><a target="_blank" href="https://cssgridgarden.com">https://cssgridgarden.com</a></li><li><a target="_blank" href="https://flexboxfroggy.com">https://flexboxfroggy.com</a></li><li><a target="_blank" href="https://flexboxzombies.com">https://flexboxzombies.com</a></li><li><a target="_blank" href="https://t.co/kONitD1rll">https://t.co/kONitD1rll</a></li><li><a target="_blank" href="https://www.guess-css.app/">https://www.guess-css.app/</a></li>
+  <li><a target="_blank" href="http://www.flexboxdefense.com/">http://www.flexboxdefense.com/</a></li><li><a target="_blank" href="https://t.co/zBB93Uql6i?amp=1">https://t.co/zBB93Uql6i?amp=1</a></li><li><a target="_blank" href="https://flukeout.github.io">https://flukeout.github.io</a></li><li><a target="_blank" href="https://cssgridgarden.com">https://cssgridgarden.com</a></li><li><a target="_blank" href="https://flexboxfroggy.com">https://flexboxfroggy.com</a></li><li><a target="_blank" href="https://flexboxzombies.com">https://flexboxzombies.com</a></li><li><a target="_blank" href="https://t.co/kONitD1rll">https://t.co/kONitD1rll</a></li><li><a target="_blank" href="https://www.guess-css.app/">https://www.guess-css.app/</a></li><li><a target="_blank" href="https://t.co/G0a77jhNzu">https://t.co/G0a77jhNzu</a></li>
   <br>
     
   <span>
