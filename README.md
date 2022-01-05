@@ -41,19 +41,13 @@
   <span>
     <strong>Vue.js 3</strong>
   </span>
-  <li><a target="_blank" href="https://vueschool.io/articles/vuejs-tutorials/eslint-and-prettier-with-vite-and-vue-js-3/">Combing ESLint and Prettier make large scale Vue 3 apps clean and error free</a></li><li><a target="_blank" href="https://new-theme.vueuse.org/">Collection of essential Vue Composition Utilities</a></li>
+  <li><a target="_blank" href="https://vueschool.io/articles/vuejs-tutorials/eslint-and-prettier-with-vite-and-vue-js-3/">Combing ESLint and Prettier make large scale Vue 3 apps clean and error free</a></li><li><a target="_blank" href="https://new-theme.vueuse.org/">Collection of essential Vue Composition Utilities</a></li><li><a target="_blank" href="https://blog.logrocket.com/getting-started-storybook-vue-3/">Master UI in Vue.js with this advanced guide to Storybook, a tool for isolating and testing your components for beautiful apps.</a></li>
   <br>
     
   <span>
     <strong>Arquitectura frontend</strong>
   </span>
   <li><a target="_blank" href="https://www.youtube.com/watch?v=pqSZ5en1BQ8&ab_channel=midudev">https://www.youtube.com/watch?v=pqSZ5en1BQ8&ab_channel=midudev</a></li><li><a target="_blank" href="https://www.youtube.com/watch?v=NpjecaAgcVQ&ab_channel=Autentia">https://www.youtube.com/watch?v=NpjecaAgcVQ&ab_channel=Autentia</a></li><li><a target="_blank" href="https://dev.to/bespoyasov/clean-architecture-on-frontend-4311">https://dev.to/bespoyasov/clean-architecture-on-frontend-4311</a></li>
-  <br>
-    
-  <span>
-    <strong>Storybook</strong>
-  </span>
-  <li><a target="_blank" href="https://blog.logrocket.com/getting-started-storybook-vue-3/">Master UI in Vue.js with this advanced guide to Storybook, a tool for isolating and testing your components for beautiful apps.</a></li>
   <br>
     
   <span>
@@ -207,7 +201,7 @@
   <br>
     
   <span>
-    <strong>Vue.js</strong>
+    <strong>Vue.js 2</strong>
   </span>
   <li><a target="_blank" href="https://dev.to/marinamosti/hands-on-vuejs-for-beginners-part-1-2j2g">https://dev.to/marinamosti/hands-on-vuejs-for-beginners-part-1-2j2g</a></li><li><a target="_blank" href="https://joseluisgs.github.io/blog/2021-12-08-soy-un-vue-lover.html#conclusion">https://joseluisgs.github.io/blog/2021-12-08-soy-un-vue-lover.html#conclusion</a></li>
   <br>
@@ -231,7 +225,7 @@
   <br>
     
   <span>
-    <strong>Desing Systems</strong>
+    <strong>Design Systems</strong>
   </span>
   <li><a target="_blank" href="https://designsystemsrepo.com/">https://designsystemsrepo.com/</a></li><li><a target="_blank" href="https://www.carbondesignsystem.com/">https://www.carbondesignsystem.com/</a></li>
   <br>
