@@ -3,6 +3,30 @@
 
 
   <span>
+    <strong>Checklists</strong>
+  </span>
+  <li><a target="_blank" href="https://frontendchecklist.io/">https://frontendchecklist.io/</a></li><li><a target="_blank" href="https://www.a11yproject.com/checklist/">https://www.a11yproject.com/checklist/</a></li><li><a target="_blank" href="https://www.webaccessibility.com/">https://www.webaccessibility.com/</a></li>
+  <br>
+    
+  <span>
+    <strong>JavaScript Style Guide</strong>
+  </span>
+  <li><a target="_blank" href="https://google.github.io/styleguide/jsguide.html">https://google.github.io/styleguide/jsguide.html</a></li>
+  <br>
+    
+  <span>
+    <strong>CSS Style Guide</strong>
+  </span>
+  <li><a target="_blank" href="https://cssguidelin.es/">https://cssguidelin.es/</a></li><li><a target="_blank" href="https://docs.gitlab.com/ee/development/fe_guide/style/scss.html">https://docs.gitlab.com/ee/development/fe_guide/style/scss.html</a></li>
+  <br>
+    
+  <span>
+    <strong>HTML Style Guide</strong>
+  </span>
+  <li><a target="_blank" href="https://google.github.io/styleguide/htmlcssguide.html">https://google.github.io/styleguide/htmlcssguide.html</a></li><li><a target="_blank" href="https://docs.gitlab.com/ee/development/fe_guide/style/html.html">https://docs.gitlab.com/ee/development/fe_guide/style/html.html</a></li>
+  <br>
+    
+  <span>
     <strong>Libros Javascript </strong>
   </span>
   <li><a target="_blank" href="https://exploringjs.com/impatient-js/">https://exploringjs.com/impatient-js/</a></li><li><a target="_blank" href="https://eloquentjs-es.thedojo.mx/">https://eloquentjs-es.thedojo.mx/</a></li>
@@ -41,7 +65,7 @@
   <span>
     <strong>Vue.js 3</strong>
   </span>
-  <li><a target="_blank" href="https://vueschool.io/articles/vuejs-tutorials/eslint-and-prettier-with-vite-and-vue-js-3/">Combing ESLint and Prettier make large scale Vue 3 apps clean and error free</a></li><li><a target="_blank" href="https://new-theme.vueuse.org/">Collection of essential Vue Composition Utilities</a></li><li><a target="_blank" href="https://blog.logrocket.com/getting-started-storybook-vue-3/">Master UI in Vue.js with this advanced guide to Storybook, a tool for isolating and testing your components for beautiful apps.</a></li>
+  <li><a target="_blank" href="https://vueschool.io/articles/vuejs-tutorials/eslint-and-prettier-with-vite-and-vue-js-3/">Combing ESLint and Prettier make large scale Vue 3 apps clean and error free</a></li><li><a target="_blank" href="https://new-theme.vueuse.org/">Collection of essential Vue Composition Utilities</a></li><li><a target="_blank" href="https://blog.logrocket.com/getting-started-storybook-vue-3/">Master UI in Vue.js with this advanced guide to Storybook, a tool for isolating and testing your components for beautiful apps.</a></li><li><a target="_blank" href="https://v3.vuejs.org/style-guide/">https://v3.vuejs.org/style-guide/</a></li><li><a target="_blank" href="https://docs.gitlab.com/ee/development/fe_guide/style/vue.html">https://docs.gitlab.com/ee/development/fe_guide/style/vue.html</a></li>
   <br>
     
   <span>
@@ -119,7 +143,7 @@
   <span>
     <strong>React</strong>
   </span>
-  <li><a target="_blank" href="https://egghead.io/courses/the-beginner-s-guide-to-react">https://egghead.io/courses/the-beginner-s-guide-to-react</a></li>
+  <li><a target="_blank" href="https://egghead.io/courses/the-beginner-s-guide-to-react">https://egghead.io/courses/the-beginner-s-guide-to-react</a></li><li><a target="_blank" href="https://github.com/airbnb/javascript/tree/master/react">https://github.com/airbnb/javascript/tree/master/react</a></li><li><a target="_blank" href="http://airbnb.io/javascript/react/">http://airbnb.io/javascript/react/</a></li>
   <br>
     
   <span>
@@ -135,6 +159,12 @@
   <br>
     
   <span>
+    <strong>Accesibilidad </strong>
+  </span>
+  <li><a target="_blank" href="https://a11y-style-guide.com/style-guide/section-forms.html">https://a11y-style-guide.com/style-guide/section-forms.html</a></li><li><a target="_blank" href="https://www.a11yproject.com/content-style-guide/#links">https://www.a11yproject.com/content-style-guide/#links</a></li>
+  <br>
+    
+  <span>
     <strong>Ideas Proyectos JavaScript</strong>
   </span>
   <li><a target="_blank" href="https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/">https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/</a></li>
@@ -144,6 +174,12 @@
     <strong>CSS</strong>
   </span>
   <li><a target="_blank" href="https://web.dev/learn/css/">https://web.dev/learn/css/</a></li><li><a target="_blank" href="https://windicss.org/">https://windicss.org/</a></li><li><a target="_blank" href="https://ishadeed.com/article/defensive-css/?utm_source=CSS-Weekly&utm_campaign=Issue-484&utm_medium=RSS">https://ishadeed.com/article/defensive-css/?utm_source=CSS-Weekly&utm_campaign=Issue-484&utm_medium=RSS</a></li>
+  <br>
+    
+  <span>
+    <strong>Testing</strong>
+  </span>
+  <li><a target="_blank" href="https://docs.gitlab.com/ee/development/testing_guide/">https://docs.gitlab.com/ee/development/testing_guide/</a></li><li><a target="_blank" href="https://testing-playground.com/">Playground de testing para Testing Library</a></li><li><a target="_blank" href="https://docs.gitlab.com/ee/development/testing_guide/end_to_end/">https://docs.gitlab.com/ee/development/testing_guide/end_to_end/</a></li>
   <br>
     
   <span>
