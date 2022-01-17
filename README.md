@@ -131,7 +131,13 @@
   <span>
     <strong>Iconos</strong>
   </span>
-  <li><a target="_blank" href="https://heroicons.com/">https://heroicons.com/</a></li><li><a target="_blank" href="https://phosphoricons.com/">https://phosphoricons.com/</a></li><li><a target="_blank" href="https://fonts.google.com/icons?selected=Material+Icons">https://fonts.google.com/icons?selected=Material+Icons</a></li><li><a target="_blank" href="https://remixicon.com/">https://remixicon.com/</a></li><li><a target="_blank" href="https://akaricons.com/">https://akaricons.com/</a></li><li><a target="_blank" href="https://icons.getbootstrap.com/">https://icons.getbootstrap.com/</a></li><li><a target="_blank" href="https://super.so/icons">https://super.so/icons</a></li>
+  <li><a target="_blank" href="https://heroicons.com/">https://heroicons.com/</a></li><li><a target="_blank" href="https://phosphoricons.com/">https://phosphoricons.com/</a></li><li><a target="_blank" href="https://fonts.google.com/icons?selected=Material+Icons">https://fonts.google.com/icons?selected=Material+Icons</a></li><li><a target="_blank" href="https://remixicon.com/">https://remixicon.com/</a></li><li><a target="_blank" href="https://akaricons.com/">https://akaricons.com/</a></li><li><a target="_blank" href="https://icons.getbootstrap.com/">https://icons.getbootstrap.com/</a></li><li><a target="_blank" href="https://super.so/icons">https://super.so/icons</a></li><li><a target="_blank" href="https://icones.js.org/">https://icones.js.org/</a></li>
+  <br>
+    
+  <span>
+    <strong>Tailwindcss</strong>
+  </span>
+  <li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li>
   <br>
     
   <span>
@@ -221,7 +227,7 @@
   <span>
     <strong>Mapas</strong>
   </span>
-  <li><a target="_blank" href="https://developers.google.com/maps/documentation/maps-static/overview">https://developers.google.com/maps/documentation/maps-static/overview</a></li>
+  <li><a target="_blank" href="https://developers.google.com/maps/documentation/maps-static/overview">https://developers.google.com/maps/documentation/maps-static/overview</a></li><li><a target="_blank" href="https://www.mapbox.com/maps/streets">https://www.mapbox.com/maps/streets</a></li>
   <br>
     
   <span>
