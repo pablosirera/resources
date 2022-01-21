@@ -35,7 +35,7 @@
   <span>
     <strong>Libros Javascript </strong>
   </span>
-  <li><a target="_blank" href="https://exploringjs.com/impatient-js/">https://exploringjs.com/impatient-js/</a></li><li><a target="_blank" href="https://eloquentjs-es.thedojo.mx/">https://eloquentjs-es.thedojo.mx/</a></li>
+  <li><a target="_blank" href="https://exploringjs.com/impatient-js/">https://exploringjs.com/impatient-js/</a></li><li><a target="_blank" href="https://eloquentjs-es.thedojo.mx/">https://eloquentjs-es.thedojo.mx/</a></li><li><a target="_blank" href="https://ebooks.humanwhocodes.com/promises">https://ebooks.humanwhocodes.com/promises</a></li>
   <br>
     
   <span>
@@ -233,7 +233,7 @@
   <span>
     <strong>Juegos CSS</strong>
   </span>
-  <li><a target="_blank" href="http://www.flexboxdefense.com/">http://www.flexboxdefense.com/</a></li><li><a target="_blank" href="https://t.co/zBB93Uql6i?amp=1">https://t.co/zBB93Uql6i?amp=1</a></li><li><a target="_blank" href="https://flukeout.github.io">https://flukeout.github.io</a></li><li><a target="_blank" href="https://cssgridgarden.com">https://cssgridgarden.com</a></li><li><a target="_blank" href="https://flexboxfroggy.com">https://flexboxfroggy.com</a></li><li><a target="_blank" href="https://flexboxzombies.com">https://flexboxzombies.com</a></li><li><a target="_blank" href="https://t.co/kONitD1rll">https://t.co/kONitD1rll</a></li><li><a target="_blank" href="https://www.guess-css.app/">https://www.guess-css.app/</a></li><li><a target="_blank" href="https://t.co/G0a77jhNzu">https://t.co/G0a77jhNzu</a></li>
+  <li><a target="_blank" href="http://www.flexboxdefense.com/">http://www.flexboxdefense.com/</a></li><li><a target="_blank" href="https://t.co/zBB93Uql6i?amp=1">https://t.co/zBB93Uql6i?amp=1</a></li><li><a target="_blank" href="https://flukeout.github.io">https://flukeout.github.io</a></li><li><a target="_blank" href="https://cssgridgarden.com">https://cssgridgarden.com</a></li><li><a target="_blank" href="https://flexboxfroggy.com">https://flexboxfroggy.com</a></li><li><a target="_blank" href="https://flexboxzombies.com">https://flexboxzombies.com</a></li><li><a target="_blank" href="https://t.co/kONitD1rll">https://t.co/kONitD1rll</a></li><li><a target="_blank" href="https://www.guess-css.app/">https://www.guess-css.app/</a></li><li><a target="_blank" href="https://t.co/G0a77jhNzu">https://t.co/G0a77jhNzu</a></li><li><a target="_blank" href="https://css-speedrun.netlify.app/">https://css-speedrun.netlify.app/</a></li>
   <br>
     
   <span>
