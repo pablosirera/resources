@@ -65,7 +65,7 @@
   <span>
     <strong>Mantenerse actualizado</strong>
   </span>
-  <li><a target="_blank" href="https://tympanus.net/codrops/">Creative front-end resources and inspiration for web professionals</a></li><li><a target="_blank" href="https://daily.dev/">Fastest growing online community for developers to stay updated on the best developer news</a></li>
+  <li><a target="_blank" href="https://tympanus.net/codrops/">Creative front-end resources and inspiration for web professionals</a></li><li><a target="_blank" href="https://daily.dev/">Fastest growing online community for developers to stay updated on the best developer news</a></li><li><a target="_blank" href="https://css-tricks.com/">https://css-tricks.com/</a></li><li><a target="_blank" href="https://frontendfront.com/">https://frontendfront.com/</a></li><li><a target="_blank" href="https://bestofjs.org/">https://bestofjs.org/</a></li><li><a target="_blank" href="https://alligator.io/">https://alligator.io/</a></li>
   <br>
     
   <span>
