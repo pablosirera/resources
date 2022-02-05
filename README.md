@@ -197,7 +197,7 @@
   <span>
     <strong>Emails</strong>
   </span>
-  <li><a target="_blank" href="https://mjml.io/">https://mjml.io/</a></li>
+  <li><a target="_blank" href="https://mjml.io/">https://mjml.io/</a></li><li><a target="_blank" href="https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f">https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f</a></li><li><a target="_blank" href="https://tedgoas.github.io/Cerberus/">https://tedgoas.github.io/Cerberus/</a></li>
   <br>
     
   <span>
@@ -219,7 +219,7 @@
   <br>
     
   <span>
-    <strong>Comunicación entre amigos</strong>
+    <strong>Comunicación</strong>
   </span>
   <li><a target="_blank" href="https://www.gather.town/">https://www.gather.town/</a></li>
   <br>
