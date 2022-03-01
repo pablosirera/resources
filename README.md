@@ -137,7 +137,7 @@
   <span>
     <strong>Tailwindcss</strong>
   </span>
-  <li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li>
+  <li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li>
   <br>
     
   <span>
