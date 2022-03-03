@@ -3,6 +3,12 @@
 
 
   <span>
+    <strong>UX/UI</strong>
+  </span>
+  <li><a target="_blank" href="https://www.uxdatabase.io/free-product-design-course">https://www.uxdatabase.io/free-product-design-course</a></li><li><a target="_blank" href="https://es.coursera.org/professional-certificates/google-ux-design">https://es.coursera.org/professional-certificates/google-ux-design</a></li><li><a target="_blank" href="https://www.figma.com/resources/learn-design/">https://www.figma.com/resources/learn-design/</a></li><li><a target="_blank" href="https://www.refactoringui.com/book">https://www.refactoringui.com/book</a></li>
+  <br>
+    
+  <span>
     <strong>Bootcamps</strong>
   </span>
   <li><a target="_blank" href="https://lemoncode.net/">https://lemoncode.net/</a></li>
