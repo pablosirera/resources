@@ -3,6 +3,12 @@
 
 
   <span>
+    <strong>Auth</strong>
+  </span>
+  <li><a target="_blank" href="https://magic.link/">https://magic.link/</a></li>
+  <br>
+    
+  <span>
     <strong>UX/UI</strong>
   </span>
   <li><a target="_blank" href="https://www.uxdatabase.io/free-product-design-course">https://www.uxdatabase.io/free-product-design-course</a></li><li><a target="_blank" href="https://es.coursera.org/professional-certificates/google-ux-design">https://es.coursera.org/professional-certificates/google-ux-design</a></li><li><a target="_blank" href="https://www.figma.com/resources/learn-design/">https://www.figma.com/resources/learn-design/</a></li><li><a target="_blank" href="https://www.refactoringui.com/book">https://www.refactoringui.com/book</a></li>
@@ -65,7 +71,7 @@
   <span>
     <strong>APIs</strong>
   </span>
-  <li><a target="_blank" href="https://www.thecocktaildb.com/api.php">https://www.thecocktaildb.com/api.php</a></li><li><a target="_blank" href="https://imgflip.com/api">https://imgflip.com/api</a></li><li><a target="_blank" href="https://apis.guru/">https://apis.guru/</a></li><li><a target="_blank" href="https://api.nasa.gov/">https://api.nasa.gov/</a></li>
+  <li><a target="_blank" href="https://www.thecocktaildb.com/api.php">https://www.thecocktaildb.com/api.php</a></li><li><a target="_blank" href="https://imgflip.com/api">https://imgflip.com/api</a></li><li><a target="_blank" href="https://apis.guru/">https://apis.guru/</a></li><li><a target="_blank" href="https://api.nasa.gov/">NASA Open APIs</a></li><li><a target="_blank" href="https://lorem.space/">API for placeholder images</a></li>
   <br>
     
   <span>
@@ -131,13 +137,13 @@
   <span>
     <strong>Cheatsheets</strong>
   </span>
-  <li><a target="_blank" href="https://devhints.io/">https://devhints.io/</a></li>
+  <li><a target="_blank" href="https://devhints.io/">https://devhints.io/</a></li><li><a target="_blank" href="https://losapuntesdemajo.vercel.app/">Los apuntes de Majo</a></li>
   <br>
     
   <span>
     <strong>Iconos</strong>
   </span>
-  <li><a target="_blank" href="https://heroicons.com/">https://heroicons.com/</a></li><li><a target="_blank" href="https://phosphoricons.com/">https://phosphoricons.com/</a></li><li><a target="_blank" href="https://fonts.google.com/icons?selected=Material+Icons">https://fonts.google.com/icons?selected=Material+Icons</a></li><li><a target="_blank" href="https://remixicon.com/">https://remixicon.com/</a></li><li><a target="_blank" href="https://akaricons.com/">https://akaricons.com/</a></li><li><a target="_blank" href="https://icons.getbootstrap.com/">https://icons.getbootstrap.com/</a></li><li><a target="_blank" href="https://super.so/icons">https://super.so/icons</a></li><li><a target="_blank" href="https://icones.js.org/">https://icones.js.org/</a></li>
+  <li><a target="_blank" href="https://heroicons.com/">https://heroicons.com/</a></li><li><a target="_blank" href="https://phosphoricons.com/">https://phosphoricons.com/</a></li><li><a target="_blank" href="https://fonts.google.com/icons?selected=Material+Icons">https://fonts.google.com/icons?selected=Material+Icons</a></li><li><a target="_blank" href="https://remixicon.com/">https://remixicon.com/</a></li><li><a target="_blank" href="https://akaricons.com/">https://akaricons.com/</a></li><li><a target="_blank" href="https://icons.getbootstrap.com/">https://icons.getbootstrap.com/</a></li><li><a target="_blank" href="https://super.so/icons">https://super.so/icons</a></li><li><a target="_blank" href="https://icones.js.org/">https://icones.js.org/</a></li><li><a target="_blank" href="https://tabler-icons.io/">https://tabler-icons.io/</a></li>
   <br>
     
   <span>
@@ -275,7 +281,7 @@
   <span>
     <strong>Plataformas para mejorar como desarrollador</strong>
   </span>
-  <li><a target="_blank" href="https://www.frontendmentor.io/challenges">https://www.frontendmentor.io/challenges</a></li><li><a target="_blank" href="https://www.codewars.com/">https://www.codewars.com/</a></li>
+  <li><a target="_blank" href="https://www.frontendmentor.io/challenges">https://www.frontendmentor.io/challenges</a></li><li><a target="_blank" href="https://www.codewars.com/">https://www.codewars.com/</a></li><li><a target="_blank" href="https://devchallenges.io/">https://devchallenges.io/</a></li>
   <br>
     
   <span>
