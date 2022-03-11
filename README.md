@@ -207,6 +207,12 @@
   <br>
     
   <span>
+    <strong>Git</strong>
+  </span>
+  <li><a target="_blank" href="https://gitexplorer.com/">https://gitexplorer.com/</a></li>
+  <br>
+    
+  <span>
     <strong>Emails</strong>
   </span>
   <li><a target="_blank" href="https://mjml.io/">https://mjml.io/</a></li><li><a target="_blank" href="https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f">https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f</a></li><li><a target="_blank" href="https://tedgoas.github.io/Cerberus/">https://tedgoas.github.io/Cerberus/</a></li>
