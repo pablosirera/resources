@@ -3,6 +3,12 @@
 
 
   <span>
+    <strong>Newsletters</strong>
+  </span>
+  <li><a target="_blank" href="https://www.getrevue.co/profile/helleworld_">https://www.getrevue.co/profile/helleworld_</a></li><li><a target="_blank" href="https://www.getrevue.co/profile/carlosazaustre">https://www.getrevue.co/profile/carlosazaustre</a></li><li><a target="_blank" href="https://www.getrevue.co/profile/baumannzone">https://www.getrevue.co/profile/baumannzone</a></li>
+  <br>
+    
+  <span>
     <strong>Auth</strong>
   </span>
   <li><a target="_blank" href="https://magic.link/">https://magic.link/</a></li>
