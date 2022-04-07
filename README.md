@@ -101,7 +101,7 @@
   <span>
     <strong>Admin Dashboard</strong>
   </span>
-  <li><a target="_blank" href="https://madewithvuejs.com/admin-one">https://madewithvuejs.com/admin-one</a></li>
+  <li><a target="_blank" href="https://madewithvuejs.com/admin-one">https://madewithvuejs.com/admin-one</a></li><li><a target="_blank" href="https://kamona-ui.github.io/kui-dashboard-vue/#/">https://kamona-ui.github.io/kui-dashboard-vue/#/</a></li>
   <br>
     
   <span>
@@ -281,7 +281,7 @@
   <span>
     <strong>Gráficas</strong>
   </span>
-  <li><a target="_blank" href="https://apexcharts.com/">https://apexcharts.com/</a></li><li><a target="_blank" href="https://chartscss.org/">https://chartscss.org/</a></li>
+  <li><a target="_blank" href="https://apexcharts.com/">https://apexcharts.com/</a></li><li><a target="_blank" href="https://chartscss.org/">https://chartscss.org/</a></li><li><a target="_blank" href="https://echarts.apache.org/en/index.html">https://echarts.apache.org/en/index.html</a></li>
   <br>
     
   <span>
