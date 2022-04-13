@@ -161,7 +161,7 @@
   <span>
     <strong>Capturas de código </strong>
   </span>
-  <li><a target="_blank" href="https://ray.so/">https://ray.so/</a></li><li><a target="_blank" href="https://carbon.now.sh/">https://carbon.now.sh/</a></li>
+  <li><a target="_blank" href="https://ray.so/">https://ray.so/</a></li><li><a target="_blank" href="https://carbon.now.sh/">https://carbon.now.sh/</a></li><li><a target="_blank" href="https://chalk.ist/">https://chalk.ist/</a></li>
   <br>
     
   <span>
@@ -203,7 +203,7 @@
   <span>
     <strong>CSS</strong>
   </span>
-  <li><a target="_blank" href="https://web.dev/learn/css/">https://web.dev/learn/css/</a></li><li><a target="_blank" href="https://windicss.org/">https://windicss.org/</a></li><li><a target="_blank" href="https://ishadeed.com/article/defensive-css/?utm_source=CSS-Weekly&utm_campaign=Issue-484&utm_medium=RSS">https://ishadeed.com/article/defensive-css/?utm_source=CSS-Weekly&utm_campaign=Issue-484&utm_medium=RSS</a></li>
+  <li><a target="_blank" href="https://web.dev/learn/css/">https://web.dev/learn/css/</a></li><li><a target="_blank" href="https://windicss.org/">https://windicss.org/</a></li><li><a target="_blank" href="https://ishadeed.com/article/defensive-css/?utm_source=CSS-Weekly&utm_campaign=Issue-484&utm_medium=RSS">https://ishadeed.com/article/defensive-css/?utm_source=CSS-Weekly&utm_campaign=Issue-484&utm_medium=RSS</a></li><li><a target="_blank" href="https://cssloaders.github.io/">https://cssloaders.github.io/</a></li>
   <br>
     
   <span>
