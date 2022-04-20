@@ -1,3 +1,5 @@
+![aparece una foto de pablo sirera y el texto desarrollador web](https://res.cloudinary.com/de5xzoviz/image/upload/v1650463806/recursos-repositorio.png)
+
 ## Recursos Web 🔖  (WIP)
 > Una lista de recursos web que suelo usar habitualmente y recomiendo.
 
@@ -65,7 +67,7 @@
   <span>
     <strong>Animaciones CSS</strong>
   </span>
-  <li><a target="_blank" href="https://anijs.github.io/">AniJS, Declarative handling library for CSS animations</a></li>
+  <li><a target="_blank" href="https://anijs.github.io/">AniJS, Declarative handling library for CSS animations</a></li><li><a target="_blank" href="https://uiball.com/loaders/">Free loaders & spinners for your next project</a></li>
   <br>
     
   <span>
@@ -155,7 +157,7 @@
   <span>
     <strong>Tailwindcss</strong>
   </span>
-  <li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li>
+  <li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://tailwindpdf.com/">Embrace the power of HTML and tailwindcss. Create pdf and image from html</a></li>
   <br>
     
   <span>
@@ -179,7 +181,7 @@
   <span>
     <strong>Roadmap Frontend</strong>
   </span>
-  <li><a target="_blank" href="https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/">https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/</a></li>
+  <li><a target="_blank" href="https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/">https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/</a></li><li><a target="_blank" href="https://andreasbm.github.io/web-skills/">https://andreasbm.github.io/web-skills/</a></li>
   <br>
     
   <span>
@@ -197,7 +199,7 @@
   <span>
     <strong>Ideas Proyectos JavaScript</strong>
   </span>
-  <li><a target="_blank" href="https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/">https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/</a></li>
+  <li><a target="_blank" href="https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/">https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/</a></li><li><a target="_blank" href="https://www.freecodecamp.org/news/javascript-projects-for-beginners/">https://www.freecodecamp.org/news/javascript-projects-for-beginners/</a></li>
   <br>
     
   <span>
@@ -213,15 +215,45 @@
   <br>
     
   <span>
-    <strong>Git</strong>
+    <strong>Presentaciones</strong>
   </span>
-  <li><a target="_blank" href="https://gitexplorer.com/">https://gitexplorer.com/</a></li>
+  <li><a target="_blank" href="https://sli.dev/">https://sli.dev/</a></li>
   <br>
     
   <span>
-    <strong>Emails</strong>
+    <strong>SSR</strong>
   </span>
-  <li><a target="_blank" href="https://mjml.io/">https://mjml.io/</a></li><li><a target="_blank" href="https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f">https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f</a></li><li><a target="_blank" href="https://tedgoas.github.io/Cerberus/">https://tedgoas.github.io/Cerberus/</a></li>
+  <li><a target="_blank" href="https://prerender.io/benefits/">https://prerender.io/benefits/</a></li>
+  <br>
+    
+  <span>
+    <strong>Git</strong>
+  </span>
+  <li><a target="_blank" href="https://gitexplorer.com/">https://gitexplorer.com/</a></li><li><a target="_blank" href="https://ohmygit.org/">https://ohmygit.org/</a></li>
+  <br>
+    
+  <span>
+    <strong>Colores CSS</strong>
+  </span>
+  <li><a target="_blank" href="https://www.uifrommars.com/que-es-hsl/">https://www.uifrommars.com/que-es-hsl/</a></li>
+  <br>
+    
+  <span>
+    <strong>Regex</strong>
+  </span>
+  <li><a target="_blank" href="https://regexr.com/">https://regexr.com/</a></li>
+  <br>
+    
+  <span>
+    <strong>Content Creator</strong>
+  </span>
+  <li><a target="_blank" href="https://www.kapwing.com/tools/montage-maker">https://www.kapwing.com/tools/montage-maker</a></li><li><a target="_blank" href="https://ssstik.io/">https://ssstik.io/</a></li><li><a target="_blank" href="https://hashtagstack.com/hashtag-generator">https://hashtagstack.com/hashtag-generator</a></li><li><a target="_blank" href="https://www.getsubly.com/">https://www.getsubly.com/</a></li><li><a target="_blank" href="https://ncs.io/">https://ncs.io/</a></li><li><a target="_blank" href="https://www.clickasnap.com/">https://www.clickasnap.com/</a></li><li><a target="_blank" href="https://contentdrips.com/">https://contentdrips.com/</a></li><li><a target="_blank" href="https://kamua.com/">https://kamua.com/</a></li><li><a target="_blank" href="https://streamladder.com/">https://streamladder.com/</a></li><li><a target="_blank" href="https://crossclip.com/">https://crossclip.com/</a></li><li><a target="_blank" href="https://nexusclips.com/v2/index.php">https://nexusclips.com/v2/index.php</a></li>
+  <br>
+    
+  <span>
+    <strong>Email</strong>
+  </span>
+  <li><a target="_blank" href="https://mjml.io/">https://mjml.io/</a></li><li><a target="_blank" href="https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f">https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f</a></li><li><a target="_blank" href="https://tedgoas.github.io/Cerberus/">https://tedgoas.github.io/Cerberus/</a></li><li><a target="_blank" href="https://tedgoas.github.io/Cerberus/">https://tedgoas.github.io/Cerberus/</a></li><li><a target="_blank" href="https://www.caniemail.com/">https://www.caniemail.com/</a></li><li><a target="_blank" href="https://get.foundation/emails.html">https://get.foundation/emails.html</a></li><li><a target="_blank" href="https://www.litmus.com/">https://www.litmus.com/</a></li><li><a target="_blank" href="https://maizzle.com/">https://maizzle.com/</a></li><li><a target="_blank" href="https://beefree.io/">https://beefree.io/</a></li><li><a target="_blank" href="https://stripo.email/es/">https://stripo.email/es/</a></li><li><a target="_blank" href="https://github.com/leemunroe/responsive-html-email-template/blob/master/email.html">https://github.com/leemunroe/responsive-html-email-template/blob/master/email.html</a></li>
   <br>
     
   <span>
