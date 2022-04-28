@@ -5,6 +5,12 @@
 
 
   <span>
+    <strong>Mocks</strong>
+  </span>
+  <li><a target="_blank" href="https://designer.mocky.io/">https://designer.mocky.io/</a></li><li><a target="_blank" href="https://mswjs.io/">https://mswjs.io/</a></li>
+  <br>
+    
+  <span>
     <strong>Newsletters</strong>
   </span>
   <li><a target="_blank" href="https://www.getrevue.co/profile/helleworld_">https://www.getrevue.co/profile/helleworld_</a></li><li><a target="_blank" href="https://www.getrevue.co/profile/carlosazaustre">https://www.getrevue.co/profile/carlosazaustre</a></li><li><a target="_blank" href="https://www.getrevue.co/profile/baumannzone">https://www.getrevue.co/profile/baumannzone</a></li>
@@ -157,7 +163,7 @@
   <span>
     <strong>Tailwindcss</strong>
   </span>
-  <li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://tailwindpdf.com/">Embrace the power of HTML and tailwindcss. Create pdf and image from html</a></li>
+  <li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://tailwindpdf.com/">Embrace the power of HTML and tailwindcss. Create pdf and image from html</a></li><li><a target="_blank" href="https://www.hyperui.dev/">Free Open Source Tailwind CSS Components</a></li>
   <br>
     
   <span>
