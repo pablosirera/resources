@@ -337,7 +337,7 @@
   <span>
     <strong>Design Systems</strong>
   </span>
-  <li><a target="_blank" href="https://designsystemsrepo.com/">https://designsystemsrepo.com/</a></li><li><a target="_blank" href="https://www.carbondesignsystem.com/">https://www.carbondesignsystem.com/</a></li><li><a target="_blank" href="https://ui.supabase.io/">https://ui.supabase.io/</a></li>
+  <li><a target="_blank" href="https://designsystemsrepo.com/">https://designsystemsrepo.com/</a></li><li><a target="_blank" href="https://www.carbondesignsystem.com/">https://www.carbondesignsystem.com/</a></li><li><a target="_blank" href="https://ui.supabase.io/">https://ui.supabase.io/</a></li><li><a target="_blank" href="https://vercel.com/design">https://vercel.com/design</a></li>
   <br>
     
   <span>
