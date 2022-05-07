@@ -5,6 +5,12 @@
 
 
   <span>
+    <strong>Node</strong>
+  </span>
+  <li><a target="_blank" href="https://nodeschool.io/es/">https://nodeschool.io/es/</a></li>
+  <br>
+    
+  <span>
     <strong>Mocks</strong>
   </span>
   <li><a target="_blank" href="https://designer.mocky.io/">https://designer.mocky.io/</a></li><li><a target="_blank" href="https://mswjs.io/">https://mswjs.io/</a></li>
@@ -187,7 +193,7 @@
   <span>
     <strong>Roadmap Frontend</strong>
   </span>
-  <li><a target="_blank" href="https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/">https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/</a></li><li><a target="_blank" href="https://andreasbm.github.io/web-skills/">https://andreasbm.github.io/web-skills/</a></li>
+  <li><a target="_blank" href="https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/">https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/</a></li><li><a target="_blank" href="https://andreasbm.github.io/web-skills/">https://andreasbm.github.io/web-skills/</a></li><li><a target="_blank" href="https://component-party.dev/#reactivity">https://component-party.dev/#reactivity</a></li>
   <br>
     
   <span>
