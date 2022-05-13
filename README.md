@@ -5,6 +5,12 @@
 
 
   <span>
+    <strong>Terminal</strong>
+  </span>
+  <li><a target="_blank" href="https://www.commands.dev/">https://www.commands.dev/</a></li>
+  <br>
+    
+  <span>
     <strong>Node</strong>
   </span>
   <li><a target="_blank" href="https://nodeschool.io/es/">https://nodeschool.io/es/</a></li>
