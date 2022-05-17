@@ -181,7 +181,7 @@
   <span>
     <strong>Capturas de código </strong>
   </span>
-  <li><a target="_blank" href="https://ray.so/">https://ray.so/</a></li><li><a target="_blank" href="https://carbon.now.sh/">https://carbon.now.sh/</a></li><li><a target="_blank" href="https://chalk.ist/">https://chalk.ist/</a></li><li><a target="_blank" href="https://snappify.io/">https://snappify.io/</a></li>
+  <li><a target="_blank" href="https://ray.so/">https://ray.so/</a></li><li><a target="_blank" href="https://carbon.now.sh/">https://carbon.now.sh/</a></li><li><a target="_blank" href="https://chalk.ist/">https://chalk.ist/</a></li><li><a target="_blank" href="https://snappify.io/">https://snappify.io/</a></li><li><a target="_blank" href="https://codetoimg.com/">https://codetoimg.com/</a></li>
   <br>
     
   <span>
