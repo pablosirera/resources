@@ -55,13 +55,13 @@
   <span>
     <strong>JavaScript Style Guide</strong>
   </span>
-  <li><a target="_blank" href="https://google.github.io/styleguide/jsguide.html">https://google.github.io/styleguide/jsguide.html</a></li>
+  <li><a target="_blank" href="https://google.github.io/styleguide/jsguide.html">https://google.github.io/styleguide/jsguide.html</a></li><li><a target="_blank" href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</a></li>
   <br>
     
   <span>
     <strong>CSS Style Guide</strong>
   </span>
-  <li><a target="_blank" href="https://cssguidelin.es/">https://cssguidelin.es/</a></li><li><a target="_blank" href="https://docs.gitlab.com/ee/development/fe_guide/style/scss.html">https://docs.gitlab.com/ee/development/fe_guide/style/scss.html</a></li>
+  <li><a target="_blank" href="https://cssguidelin.es/">https://cssguidelin.es/</a></li><li><a target="_blank" href="https://github.com/airbnb/css">https://github.com/airbnb/css</a></li><li><a target="_blank" href="https://docs.gitlab.com/ee/development/fe_guide/style/scss.html">https://docs.gitlab.com/ee/development/fe_guide/style/scss.html</a></li>
   <br>
     
   <span>
@@ -74,6 +74,12 @@
     <strong>Libros Javascript </strong>
   </span>
   <li><a target="_blank" href="https://exploringjs.com/impatient-js/">https://exploringjs.com/impatient-js/</a></li><li><a target="_blank" href="https://eloquentjs-es.thedojo.mx/">https://eloquentjs-es.thedojo.mx/</a></li><li><a target="_blank" href="https://ebooks.humanwhocodes.com/promises">https://ebooks.humanwhocodes.com/promises</a></li>
+  <br>
+    
+  <span>
+    <strong>Recursos Web</strong>
+  </span>
+  <li><a target="_blank" href="https://github.com/sindresorhus/awesome">https://github.com/sindresorhus/awesome</a></li>
   <br>
     
   <span>
@@ -175,7 +181,7 @@
   <span>
     <strong>Tailwindcss</strong>
   </span>
-  <li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://tailwindpdf.com/">Embrace the power of HTML and tailwindcss. Create pdf and image from html</a></li><li><a target="_blank" href="https://www.hyperui.dev/">Free Open Source Tailwind CSS Components</a></li>
+  <li><a target="_blank" href="https://github.com/rogden/tailwind-config-viewer">https://github.com/rogden/tailwind-config-viewer</a></li><li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://tailwindpdf.com/">Embrace the power of HTML and tailwindcss. Create pdf and image from html</a></li><li><a target="_blank" href="https://www.hyperui.dev/">Free Open Source Tailwind CSS Components</a></li><li><a target="_blank" href="https://preline.co/index.html">https://preline.co/index.html</a></li>
   <br>
     
   <span>
@@ -199,19 +205,19 @@
   <span>
     <strong>Roadmap Frontend</strong>
   </span>
-  <li><a target="_blank" href="https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/">https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/</a></li><li><a target="_blank" href="https://andreasbm.github.io/web-skills/">https://andreasbm.github.io/web-skills/</a></li><li><a target="_blank" href="https://component-party.dev/#reactivity">https://component-party.dev/#reactivity</a></li>
+  <li><a target="_blank" href="https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/">https://npmrundev.wordpress.com/2021/09/18/progressing-from-beginner-to-intermediate/</a></li><li><a target="_blank" href="https://andreasbm.github.io/web-skills/">https://andreasbm.github.io/web-skills/</a></li><li><a target="_blank" href="https://github.com/thedaviddias/Front-End-Checklist">https://github.com/thedaviddias/Front-End-Checklist</a></li><li><a target="_blank" href="https://component-party.dev/#reactivity">https://component-party.dev/#reactivity</a></li>
   <br>
     
   <span>
     <strong>Entrevistas</strong>
   </span>
-  <li><a target="_blank" href="https://jonroji.es/Preguntas-de-entrevista-cd11b30652b645b0a4173cf59e14a872">https://jonroji.es/Preguntas-de-entrevista-cd11b30652b645b0a4173cf59e14a872</a></li><li><a target="_blank" href="https://github.com/mgechev/google-interview-preparation-problems">https://github.com/mgechev/google-interview-preparation-problems</a></li><li><a target="_blank" href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">https://github.com/h5bp/Front-end-Developer-Interview-Questions</a></li><li><a target="_blank" href="https://h5bp.org/Front-end-Developer-Interview-Questions/">https://h5bp.org/Front-end-Developer-Interview-Questions/</a></li><li><a target="_blank" href="https://twitter.com/midudev/status/1380521633820069889?s=20">https://twitter.com/midudev/status/1380521633820069889?s=20</a></li><li><a target="_blank" href="https://www.freecodecamp.org/news/coding-interview-preparation/">https://www.freecodecamp.org/news/coding-interview-preparation/</a></li>
+  <li><a target="_blank" href="https://jonroji.es/Preguntas-de-entrevista-cd11b30652b645b0a4173cf59e14a872">https://jonroji.es/Preguntas-de-entrevista-cd11b30652b645b0a4173cf59e14a872</a></li><li><a target="_blank" href="https://github.com/mgechev/google-interview-preparation-problems">https://github.com/mgechev/google-interview-preparation-problems</a></li><li><a target="_blank" href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">https://github.com/h5bp/Front-end-Developer-Interview-Questions</a></li><li><a target="_blank" href="https://h5bp.org/Front-end-Developer-Interview-Questions/">https://h5bp.org/Front-end-Developer-Interview-Questions/</a></li><li><a target="_blank" href="https://twitter.com/midudev/status/1380521633820069889?s=20">https://twitter.com/midudev/status/1380521633820069889?s=20</a></li><li><a target="_blank" href="https://www.freecodecamp.org/news/coding-interview-preparation/">https://www.freecodecamp.org/news/coding-interview-preparation/</a></li><li><a target="_blank" href="https://github.com/jwasham/coding-interview-university">https://github.com/jwasham/coding-interview-university</a></li>
   <br>
     
   <span>
     <strong>Accesibilidad </strong>
   </span>
-  <li><a target="_blank" href="https://a11y-style-guide.com/style-guide/section-forms.html">https://a11y-style-guide.com/style-guide/section-forms.html</a></li><li><a target="_blank" href="https://www.a11yproject.com/content-style-guide/#links">https://www.a11yproject.com/content-style-guide/#links</a></li>
+  <li><a target="_blank" href="https://a11y-style-guide.com/style-guide/section-forms.html">https://a11y-style-guide.com/style-guide/section-forms.html</a></li><li><a target="_blank" href="https://github.com/ing-bank/lion">https://github.com/ing-bank/lion</a></li><li><a target="_blank" href="https://www.a11yproject.com/content-style-guide/#links">https://www.a11yproject.com/content-style-guide/#links</a></li>
   <br>
     
   <span>
@@ -223,13 +229,13 @@
   <span>
     <strong>CSS</strong>
   </span>
-  <li><a target="_blank" href="https://web.dev/learn/css/">https://web.dev/learn/css/</a></li><li><a target="_blank" href="https://windicss.org/">https://windicss.org/</a></li><li><a target="_blank" href="https://ishadeed.com/article/defensive-css/?utm_source=CSS-Weekly&utm_campaign=Issue-484&utm_medium=RSS">https://ishadeed.com/article/defensive-css/?utm_source=CSS-Weekly&utm_campaign=Issue-484&utm_medium=RSS</a></li><li><a target="_blank" href="https://cssloaders.github.io/">https://cssloaders.github.io/</a></li>
+  <li><a target="_blank" href="https://github.com/antfu/unocss">https://github.com/antfu/unocss</a></li><li><a target="_blank" href="https://web.dev/learn/css/">https://web.dev/learn/css/</a></li><li><a target="_blank" href="https://windicss.org/">https://windicss.org/</a></li><li><a target="_blank" href="https://ishadeed.com/article/defensive-css/?utm_source=CSS-Weekly&utm_campaign=Issue-484&utm_medium=RSS">https://ishadeed.com/article/defensive-css/?utm_source=CSS-Weekly&utm_campaign=Issue-484&utm_medium=RSS</a></li><li><a target="_blank" href="https://cssloaders.github.io/">https://cssloaders.github.io/</a></li>
   <br>
     
   <span>
     <strong>Testing</strong>
   </span>
-  <li><a target="_blank" href="https://docs.gitlab.com/ee/development/testing_guide/">https://docs.gitlab.com/ee/development/testing_guide/</a></li><li><a target="_blank" href="https://testing-playground.com/">Playground de testing para Testing Library</a></li><li><a target="_blank" href="https://docs.gitlab.com/ee/development/testing_guide/end_to_end/">https://docs.gitlab.com/ee/development/testing_guide/end_to_end/</a></li>
+  <li><a target="_blank" href="https://docs.gitlab.com/ee/development/testing_guide/">https://docs.gitlab.com/ee/development/testing_guide/</a></li><li><a target="_blank" href="https://testing-playground.com/">Playground de testing para Testing Library</a></li><li><a target="_blank" href="https://github.com/goldbergyoni/javascript-testing-best-practices">https://github.com/goldbergyoni/javascript-testing-best-practices</a></li><li><a target="_blank" href="https://docs.gitlab.com/ee/development/testing_guide/end_to_end/">https://docs.gitlab.com/ee/development/testing_guide/end_to_end/</a></li>
   <br>
     
   <span>
@@ -271,7 +277,7 @@
   <span>
     <strong>Email</strong>
   </span>
-  <li><a target="_blank" href="https://mjml.io/">https://mjml.io/</a></li><li><a target="_blank" href="https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f">https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f</a></li><li><a target="_blank" href="https://tedgoas.github.io/Cerberus/">https://tedgoas.github.io/Cerberus/</a></li><li><a target="_blank" href="https://tedgoas.github.io/Cerberus/">https://tedgoas.github.io/Cerberus/</a></li><li><a target="_blank" href="https://www.caniemail.com/">https://www.caniemail.com/</a></li><li><a target="_blank" href="https://get.foundation/emails.html">https://get.foundation/emails.html</a></li><li><a target="_blank" href="https://www.litmus.com/">https://www.litmus.com/</a></li><li><a target="_blank" href="https://maizzle.com/">https://maizzle.com/</a></li><li><a target="_blank" href="https://beefree.io/">https://beefree.io/</a></li><li><a target="_blank" href="https://stripo.email/es/">https://stripo.email/es/</a></li><li><a target="_blank" href="https://github.com/leemunroe/responsive-html-email-template/blob/master/email.html">https://github.com/leemunroe/responsive-html-email-template/blob/master/email.html</a></li>
+  <li><a target="_blank" href="https://mjml.io/">https://mjml.io/</a></li><li><a target="_blank" href="https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f">https://masopego.medium.com/maquetando-e-mail-con-superpoderes-1d235caad29f</a></li><li><a target="_blank" href="https://tedgoas.github.io/Cerberus/">https://tedgoas.github.io/Cerberus/</a></li><li><a target="_blank" href="https://tedgoas.github.io/Cerberus/">https://tedgoas.github.io/Cerberus/</a></li><li><a target="_blank" href="https://www.caniemail.com/">https://www.caniemail.com/</a></li><li><a target="_blank" href="https://github.com/bootstrap-email/bootstrap-email">https://github.com/bootstrap-email/bootstrap-email</a></li><li><a target="_blank" href="https://get.foundation/emails.html">https://get.foundation/emails.html</a></li><li><a target="_blank" href="https://www.litmus.com/">https://www.litmus.com/</a></li><li><a target="_blank" href="https://maizzle.com/">https://maizzle.com/</a></li><li><a target="_blank" href="https://beefree.io/">https://beefree.io/</a></li><li><a target="_blank" href="https://stripo.email/es/">https://stripo.email/es/</a></li><li><a target="_blank" href="https://github.com/leemunroe/responsive-html-email-template/blob/master/email.html">https://github.com/leemunroe/responsive-html-email-template/blob/master/email.html</a></li>
   <br>
     
   <span>
@@ -325,7 +331,7 @@
   <span>
     <strong>Vue.js 2</strong>
   </span>
-  <li><a target="_blank" href="https://dev.to/marinamosti/hands-on-vuejs-for-beginners-part-1-2j2g">https://dev.to/marinamosti/hands-on-vuejs-for-beginners-part-1-2j2g</a></li><li><a target="_blank" href="https://joseluisgs.github.io/blog/2021-12-08-soy-un-vue-lover.html#conclusion">https://joseluisgs.github.io/blog/2021-12-08-soy-un-vue-lover.html#conclusion</a></li>
+  <li><a target="_blank" href="https://github.com/jdonsan/estudiando-vue-js">https://github.com/jdonsan/estudiando-vue-js</a></li><li><a target="_blank" href="https://dev.to/marinamosti/hands-on-vuejs-for-beginners-part-1-2j2g">https://dev.to/marinamosti/hands-on-vuejs-for-beginners-part-1-2j2g</a></li><li><a target="_blank" href="https://joseluisgs.github.io/blog/2021-12-08-soy-un-vue-lover.html#conclusion">https://joseluisgs.github.io/blog/2021-12-08-soy-un-vue-lover.html#conclusion</a></li>
   <br>
     
   <span>
@@ -343,13 +349,13 @@
   <span>
     <strong>Plataformas para mejorar como desarrollador</strong>
   </span>
-  <li><a target="_blank" href="https://www.frontendmentor.io/challenges">https://www.frontendmentor.io/challenges</a></li><li><a target="_blank" href="https://www.codewars.com/">https://www.codewars.com/</a></li><li><a target="_blank" href="https://devchallenges.io/">https://devchallenges.io/</a></li>
+  <li><a target="_blank" href="https://www.frontendmentor.io/challenges">https://www.frontendmentor.io/challenges</a></li><li><a target="_blank" href="https://www.codewars.com/">https://www.codewars.com/</a></li><li><a target="_blank" href="https://github.com/luanribeiros/daily-code">https://github.com/luanribeiros/daily-code</a></li><li><a target="_blank" href="https://devchallenges.io/">https://devchallenges.io/</a></li>
   <br>
     
   <span>
     <strong>Design Systems</strong>
   </span>
-  <li><a target="_blank" href="https://designsystemsrepo.com/">https://designsystemsrepo.com/</a></li><li><a target="_blank" href="https://www.carbondesignsystem.com/">https://www.carbondesignsystem.com/</a></li><li><a target="_blank" href="https://ui.supabase.io/">https://ui.supabase.io/</a></li><li><a target="_blank" href="https://vercel.com/design">https://vercel.com/design</a></li>
+  <li><a target="_blank" href="https://github.com/glrodasz/cero-components">https://github.com/glrodasz/cero-components</a></li><li><a target="_blank" href="https://designsystemsrepo.com/">https://designsystemsrepo.com/</a></li><li><a target="_blank" href="https://www.carbondesignsystem.com/">https://www.carbondesignsystem.com/</a></li><li><a target="_blank" href="https://github.com/holaluz/margarita">https://github.com/holaluz/margarita</a></li><li><a target="_blank" href="https://ui.supabase.io/">https://ui.supabase.io/</a></li><li><a target="_blank" href="https://vercel.com/design">https://vercel.com/design</a></li>
   <br>
     
   <span>

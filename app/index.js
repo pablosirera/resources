@@ -45,13 +45,14 @@ const generateResourcesHTML = (resources) => {
       block_id: page.id
     })
 
-    // TODO: añadir también a los bookmarks los type link_preview
-    const bookmarks = blocks.results.filter(p => p.type === 'bookmark')
+    const bookmarks = blocks.results.filter(p => p.type === 'bookmark' || p.type === 'link_preview')
     const links = bookmarks.map(block => {
-      const captionText = block.bookmark.caption.length ? block.bookmark.caption[0].plain_text : block.bookmark.url
+      const type = block.type
+      const captionText = block[type].caption && block[type].caption.length ? block[type].caption[0].plain_text : block[type].url
+
       return {
         caption: captionText,
-        url: block.bookmark.url
+        url: block[type].url
       }
     })
 
