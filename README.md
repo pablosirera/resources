@@ -127,7 +127,7 @@
   <span>
     <strong>Admin Dashboard</strong>
   </span>
-  <li><a target="_blank" href="https://madewithvuejs.com/admin-one">https://madewithvuejs.com/admin-one</a></li><li><a target="_blank" href="https://kamona-ui.github.io/kui-dashboard-vue/#/">https://kamona-ui.github.io/kui-dashboard-vue/#/</a></li>
+  <li><a target="_blank" href="https://madewithvuejs.com/admin-one">https://madewithvuejs.com/admin-one</a></li><li><a target="_blank" href="https://kamona-ui.github.io/kui-dashboard-vue/#/">https://kamona-ui.github.io/kui-dashboard-vue/#/</a></li><li><a target="_blank" href="https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free">https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free</a></li>
   <br>
     
   <span>
