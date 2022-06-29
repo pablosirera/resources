@@ -217,7 +217,7 @@
   <span>
     <strong>Accesibilidad </strong>
   </span>
-  <li><a target="_blank" href="https://a11y-style-guide.com/style-guide/section-forms.html">https://a11y-style-guide.com/style-guide/section-forms.html</a></li><li><a target="_blank" href="https://github.com/ing-bank/lion">https://github.com/ing-bank/lion</a></li><li><a target="_blank" href="https://www.a11yproject.com/content-style-guide/#links">https://www.a11yproject.com/content-style-guide/#links</a></li>
+  <li><a target="_blank" href="https://a11y-style-guide.com/style-guide/section-forms.html">https://a11y-style-guide.com/style-guide/section-forms.html</a></li><li><a target="_blank" href="https://github.com/ing-bank/lion">https://github.com/ing-bank/lion</a></li><li><a target="_blank" href="https://www.a11yproject.com/content-style-guide/#links">https://www.a11yproject.com/content-style-guide/#links</a></li><li><a target="_blank" href="https://a11yphant.com/">https://a11yphant.com/</a></li>
   <br>
     
   <span>
