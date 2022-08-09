@@ -163,7 +163,7 @@
   <span>
     <strong>Lógica programación</strong>
   </span>
-  <li><a target="_blank" href="https://t.co/pvCT7FlwqB?amp=1">https://t.co/pvCT7FlwqB?amp=1</a></li><li><a target="_blank" href="https://t.co/7btIKemWDl?amp=1">https://t.co/7btIKemWDl?amp=1</a></li><li><a target="_blank" href="https://t.co/32EKRkXtzn?amp=1">https://t.co/32EKRkXtzn?amp=1</a></li><li><a target="_blank" href="https://t.co/zGtq9ZvDI7?amp=1">https://t.co/zGtq9ZvDI7?amp=1</a></li><li><a target="_blank" href="https://t.co/JLYPO1kiF2?amp=1">https://t.co/JLYPO1kiF2?amp=1</a></li>
+  <li><a target="_blank" href="https://t.co/pvCT7FlwqB?amp=1">https://t.co/pvCT7FlwqB?amp=1</a></li><li><a target="_blank" href="https://t.co/7btIKemWDl?amp=1">https://t.co/7btIKemWDl?amp=1</a></li><li><a target="_blank" href="https://t.co/32EKRkXtzn?amp=1">https://t.co/32EKRkXtzn?amp=1</a></li><li><a target="_blank" href="https://t.co/zGtq9ZvDI7?amp=1">https://t.co/zGtq9ZvDI7?amp=1</a></li><li><a target="_blank" href="https://t.co/JLYPO1kiF2?amp=1">https://t.co/JLYPO1kiF2?amp=1</a></li><li><a target="_blank" href="https://retos.dev/">https://retos.dev/</a></li>
   <br>
     
   <span>
@@ -349,7 +349,7 @@
   <span>
     <strong>Plataformas para mejorar como desarrollador</strong>
   </span>
-  <li><a target="_blank" href="https://www.frontendmentor.io/challenges">https://www.frontendmentor.io/challenges</a></li><li><a target="_blank" href="https://www.codewars.com/">https://www.codewars.com/</a></li><li><a target="_blank" href="https://github.com/luanribeiros/daily-code">https://github.com/luanribeiros/daily-code</a></li><li><a target="_blank" href="https://devchallenges.io/">https://devchallenges.io/</a></li>
+  <li><a target="_blank" href="https://www.frontendmentor.io/challenges">https://www.frontendmentor.io/challenges</a></li><li><a target="_blank" href="https://www.codewars.com/">https://www.codewars.com/</a></li><li><a target="_blank" href="https://github.com/luanribeiros/daily-code">https://github.com/luanribeiros/daily-code</a></li><li><a target="_blank" href="https://devchallenges.io/">https://devchallenges.io/</a></li><li><a target="_blank" href="https://aprendejavascript.dev/">https://aprendejavascript.dev/</a></li>
   <br>
     
   <span>
