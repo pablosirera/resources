@@ -79,7 +79,7 @@
   <span>
     <strong>Recursos Web</strong>
   </span>
-  <li><a target="_blank" href="https://github.com/sindresorhus/awesome">https://github.com/sindresorhus/awesome</a></li><li><a target="_blank" href="https://omatsuri.app/">https://omatsuri.app/</a></li>
+  <li><a target="_blank" href="https://github.com/sindresorhus/awesome">https://github.com/sindresorhus/awesome</a></li><li><a target="_blank" href="https://omatsuri.app/">https://omatsuri.app/</a></li><li><a target="_blank" href="https://component.gallery/">https://component.gallery/</a></li>
   <br>
     
   <span>
