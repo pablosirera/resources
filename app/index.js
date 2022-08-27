@@ -36,7 +36,9 @@ const generateResourcesHTML = (resources) => {
     ${ `${icon} ${name}` }
   </h2>
   <p>Incluye ${category.join(', ')}</p>
-  ${htmlLinks}
+  <ul>
+    ${htmlLinks}
+  </ul>
   <br>
     `
     }
