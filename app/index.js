@@ -57,7 +57,6 @@ const generateResourcesHTML = (resources) => {
   const resources = []
 
   for (const page of results) {
-    // console.log(page)
     const blocks = await notion.blocks.children.list({
       block_id: page.id
     })
@@ -87,8 +86,6 @@ const generateResourcesHTML = (resources) => {
 
     resources.push(resourcesItem)
   }
-
-  // console.log(resources)
 
   const allResources = generateResourcesHTML(resources)
   const allCategories = generateCategoriesHTML(resources)
