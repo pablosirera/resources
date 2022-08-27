@@ -7,10 +7,21 @@ dotenv.config()
 
 const { DATABASE_ID, NOTION_SECRET_KEY } = process.env
 
+const generateCategoriesHTML = (categories) => {
+  return categories.map(category => {
+    const { name, id } = category
+    return `
+  <ul>
+    <li><a href="#${id}">${name}</a></li>
+  </ul>
+    `
+  }).join('')
+}
+
 const generateResourcesHTML = (resources) => {
   return resources
   .map(resource => {
-    const { name, links } = resource
+    const { name, links, icon, category } = resource
 
     if (links) {
       let htmlLinks = ''
@@ -19,9 +30,9 @@ const generateResourcesHTML = (resources) => {
       })
 
     return `
-  <span>
-    <strong>${ name }</strong>
-  </span>
+  <h2 id="${category.id}">
+    ${ `${icon} ${name}` }
+  </h2>
   ${htmlLinks}
   <br>
     `
@@ -41,6 +52,7 @@ const generateResourcesHTML = (resources) => {
   const resources = []
 
   for (const page of results) {
+    // console.log(page)
     const blocks = await notion.blocks.children.list({
       block_id: page.id
     })
@@ -57,7 +69,7 @@ const generateResourcesHTML = (resources) => {
     })
 
     const resourcesItem = {
-      tags: page.properties.Tags[page.properties.Tags.type],
+      category: page.properties.Tags[page.properties.Tags.type],
       name: page.properties.Name.title[0].plain_text,
       id: page.id,
       cover: page.cover[page.cover.type],
@@ -71,10 +83,19 @@ const generateResourcesHTML = (resources) => {
     resources.push(resourcesItem)
   }
 
+  const categories = resources.map(resource => {
+    return {
+      name: resource.category?.name,
+      id: resource.category?.id,
+    }
+  })
 
   const allResources = generateResourcesHTML(resources)
+  const allCategories = generateCategoriesHTML(categories)
+
   const template = await fs.readFile('./app/README.md.tpl', { encoding: 'utf-8' })
-  const newMarkdown = template.replace(README_TAGS.RESOURCES, allResources)
+  let newMarkdown = template.replace(README_TAGS.RESOURCES, allResources)
+  newMarkdown = newMarkdown.replace(README_TAGS.CATEGORIES, allCategories)
 
   await fs.writeFile('README.md', newMarkdown)
 })()

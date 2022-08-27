@@ -1,3 +1,4 @@
 export const README_TAGS = {
-  RESOURCES: '%{{resources}}%'
+  RESOURCES: '%{{resources}}%',
+  CATEGORIES: '%{{categories}}%'
 }
