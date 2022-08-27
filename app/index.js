@@ -23,7 +23,7 @@ const generateCategoriesHTML = (resources) => {
 const generateResourcesHTML = (resources) => {
   return resources
   .map(resource => {
-    const { name, links, icon, id } = resource
+    const { name, links, icon, id, category } = resource
 
     if (links) {
       let htmlLinks = ''
@@ -35,6 +35,7 @@ const generateResourcesHTML = (resources) => {
   <h2 id="${id}">
     ${ `${icon} ${name}` }
   </h2>
+  <p>Incluye ${category.join(', ')}</p>
   ${htmlLinks}
   <br>
     `
