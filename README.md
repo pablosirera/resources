@@ -14,7 +14,7 @@
   <h2 id="1f11d7eb-ae47-4ad9-a577-407b4c2f51ca">
     🎃 Performance
   </h2>
-  <p>Incluye JavaScript</p>
+  <p>Incluye JavaScript, images</p>
   <ul>
     <li><a target="_blank" href="https://github.com/nucliweb/image-element">https://github.com/nucliweb/image-element</a></li>
   </ul>
