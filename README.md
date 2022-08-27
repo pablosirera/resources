@@ -4,7 +4,6 @@
 > Una lista de recursos web que suelo usar habitualmente y recomiendo.
 
 ## Tabla de contenidos
----
 
   <ul>
     <li><a href="#c0f57095-bf9b-4ab3-a0ae-8559957e1d6e">Others</a></li>
