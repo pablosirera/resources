@@ -7,21 +7,23 @@ dotenv.config()
 
 const { DATABASE_ID, NOTION_SECRET_KEY } = process.env
 
-const generateCategoriesHTML = (categories) => {
-  return categories.map(category => {
-    const { name, id } = category
-    return `
+const generateCategoriesHTML = (resources) => {
+  const list = resources.map(resource => {
+    const { name, id } = resource
+    return `<li><a href="#${id}">${name}</a></li>`
+  })
+
+  return `
   <ul>
-    <li><a href="#${id}">${name}</a></li>
+    ${list.join('')}
   </ul>
-    `
-  }).join('')
+  `
 }
 
 const generateResourcesHTML = (resources) => {
   return resources
   .map(resource => {
-    const { name, links, icon, category } = resource
+    const { name, links, icon, id } = resource
 
     if (links) {
       let htmlLinks = ''
@@ -30,7 +32,7 @@ const generateResourcesHTML = (resources) => {
       })
 
     return `
-  <h2 id="${category.id}">
+  <h2 id="${id}">
     ${ `${icon} ${name}` }
   </h2>
   ${htmlLinks}
@@ -69,7 +71,7 @@ const generateResourcesHTML = (resources) => {
     })
 
     const resourcesItem = {
-      category: page.properties.Tags[page.properties.Tags.type],
+      category: page.properties.Tags[page.properties.Tags.type].map(item => item.name),
       name: page.properties.Name.title[0].plain_text,
       id: page.id,
       cover: page.cover[page.cover.type],
@@ -83,20 +85,10 @@ const generateResourcesHTML = (resources) => {
     resources.push(resourcesItem)
   }
 
-  const dirtyCategories = resources.map(resource => {
-    return {
-      name: resource.category?.name,
-      id: resource.category?.id,
-    }
-  })
-
-  const categories = Array.from(new Set(dirtyCategories.map(cate => cate.name)))
-    .map(name => {
-      return dirtyCategories.find(cate => cate.name === name)
-    })
+  // console.log(resources)
 
   const allResources = generateResourcesHTML(resources)
-  const allCategories = generateCategoriesHTML(categories)
+  const allCategories = generateCategoriesHTML(resources)
 
   const template = await fs.readFile('./app/README.md.tpl', { encoding: 'utf-8' })
   let newMarkdown = template.replace(README_TAGS.RESOURCES, allResources)
