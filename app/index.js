@@ -83,12 +83,17 @@ const generateResourcesHTML = (resources) => {
     resources.push(resourcesItem)
   }
 
-  const categories = resources.map(resource => {
+  const dirtyCategories = resources.map(resource => {
     return {
       name: resource.category?.name,
       id: resource.category?.id,
     }
   })
+
+  const categories = Array.from(new Set(dirtyCategories.map(cate => cate.name)))
+    .map(name => {
+      return dirtyCategories.find(cate => cate.name === name)
+    })
 
   const allResources = generateResourcesHTML(resources)
   const allCategories = generateCategoriesHTML(categories)

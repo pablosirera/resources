@@ -15,14 +15,6 @@
   </ul>
     
   <ul>
-    <li><a href="#c0f57095-bf9b-4ab3-a0ae-8559957e1d6e">Others</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#c0f57095-bf9b-4ab3-a0ae-8559957e1d6e">Others</a></li>
-  </ul>
-    
-  <ul>
     <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
   </ul>
     
@@ -39,10 +31,6 @@
   </ul>
     
   <ul>
-    <li><a href="#14128e89-ff7a-444f-b436-ed68b3765950">JavaScript</a></li>
-  </ul>
-    
-  <ul>
     <li><a href="#19c6939f-c589-4fe3-b116-3b08c6799958">CSS</a></li>
   </ul>
     
@@ -51,31 +39,7 @@
   </ul>
     
   <ul>
-    <li><a href="#14128e89-ff7a-444f-b436-ed68b3765950">JavaScript</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#af7ca257-bd9c-4b84-aea1-be1d0e782f05">Learn</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#19c6939f-c589-4fe3-b116-3b08c6799958">CSS</a></li>
-  </ul>
-    
-  <ul>
     <li><a href="#6db46558-216c-4ced-94f8-b895493f5477">Animations</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#6db46558-216c-4ced-94f8-b895493f5477">Animations</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#af7ca257-bd9c-4b84-aea1-be1d0e782f05">Learn</a></li>
   </ul>
     
   <ul>
@@ -87,27 +51,7 @@
   </ul>
     
   <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#1894648d-a183-487b-aafb-e0d8cb165202">Vue.js</a></li>
-  </ul>
-    
-  <ul>
     <li><a href="#3bbfa2b7-c383-4ca4-98b9-9cbdf8759120">Podcast</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#d16b0e4c-0f53-4384-a67c-f9043c1b912c">HTML</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#14128e89-ff7a-444f-b436-ed68b3765950">JavaScript</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
   </ul>
     
   <ul>
@@ -115,35 +59,7 @@
   </ul>
     
   <ul>
-    <li><a href="#b07ce07b-53db-44e4-9224-a2cf1271c074">Frontend</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#19c6939f-c589-4fe3-b116-3b08c6799958">CSS</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
-  </ul>
-    
-  <ul>
     <li><a href="#70cfebaf-f7bd-4843-804d-8a363746f3f9">React</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#b07ce07b-53db-44e4-9224-a2cf1271c074">Frontend</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#c0f57095-bf9b-4ab3-a0ae-8559957e1d6e">Others</a></li>
   </ul>
     
   <ul>
@@ -151,23 +67,7 @@
   </ul>
     
   <ul>
-    <li><a href="#14128e89-ff7a-444f-b436-ed68b3765950">JavaScript</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#19c6939f-c589-4fe3-b116-3b08c6799958">CSS</a></li>
-  </ul>
-    
-  <ul>
     <li><a href="#ef362c65-cf85-4a07-bcf8-80ba04365dd4">Testing</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#c0f57095-bf9b-4ab3-a0ae-8559957e1d6e">Others</a></li>
   </ul>
     
   <ul>
@@ -175,79 +75,11 @@
   </ul>
     
   <ul>
-    <li><a href="#19c6939f-c589-4fe3-b116-3b08c6799958">CSS</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#14128e89-ff7a-444f-b436-ed68b3765950">JavaScript</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#c0f57095-bf9b-4ab3-a0ae-8559957e1d6e">Others</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
-  </ul>
-    
-  <ul>
     <li><a href="#06e0c8db-5fd6-429b-b666-13c400eb9d17">Platforms</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#19c6939f-c589-4fe3-b116-3b08c6799958">CSS</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#c0f57095-bf9b-4ab3-a0ae-8559957e1d6e">Others</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#06e0c8db-5fd6-429b-b666-13c400eb9d17">Platforms</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#19c6939f-c589-4fe3-b116-3b08c6799958">CSS</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#14128e89-ff7a-444f-b436-ed68b3765950">JavaScript</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#19c6939f-c589-4fe3-b116-3b08c6799958">CSS</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#1894648d-a183-487b-aafb-e0d8cb165202">Vue.js</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
   </ul>
     
   <ul>
     <li><a href="#1ac5a789-2937-44d1-989c-fc6508cfdddd">NuxtJS</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#06e0c8db-5fd6-429b-b666-13c400eb9d17">Platforms</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#6095fcf4-fc47-449e-aaf8-fd08866fb1fe">Design</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#d16b0e4c-0f53-4384-a67c-f9043c1b912c">HTML</a></li>
-  </ul>
-    
-  <ul>
-    <li><a href="#2816fd7e-ffe8-4cd8-871f-9a46e16b7375">Tools</a></li>
   </ul>
     
 
