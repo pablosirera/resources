@@ -4,7 +4,6 @@
 > Una lista de recursos web que suelo usar habitualmente y recomiendo.
 
 ## Tabla de contenidos
----
 %{{categories}}%
 
 %{{resources}}%
