@@ -34,7 +34,7 @@
   </h2>
   <p>Incluye CSS, HTML, Testing, React, JavaScript</p>
   <ul>
-    <li><a target="_blank" href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a></li><li><a target="_blank" href="https://roadmap.sh/">https://roadmap.sh/</a></li><li><a target="_blank" href="https://web.dev/learn/css/">https://web.dev/learn/css/</a></li><li><a target="_blank" href="https://es.javascript.info/">https://es.javascript.info/</a></li><li><a target="_blank" href="https://andreasbm.github.io/web-skills/">https://andreasbm.github.io/web-skills/</a></li><li><a target="_blank" href="https://github.com/thedaviddias/Front-End-Checklist">https://github.com/thedaviddias/Front-End-Checklist</a></li><li><a target="_blank" href="https://component-party.dev/#reactivity">https://component-party.dev/#reactivity</a></li>
+    <li><a target="_blank" href="https://www.freecodecamp.org/">https://www.freecodecamp.org/</a></li><li><a target="_blank" href="https://roadmap.sh/">https://roadmap.sh/</a></li><li><a target="_blank" href="https://web.dev/learn/css/">https://web.dev/learn/css/</a></li><li><a target="_blank" href="https://es.javascript.info/">https://es.javascript.info/</a></li><li><a target="_blank" href="https://andreasbm.github.io/web-skills/">https://andreasbm.github.io/web-skills/</a></li><li><a target="_blank" href="https://github.com/thedaviddias/Front-End-Checklist">https://github.com/thedaviddias/Front-End-Checklist</a></li><li><a target="_blank" href="https://component-party.dev/#reactivity">https://component-party.dev/#reactivity</a></li><li><a target="_blank" href="https://github.com/iLoveCodingOrg/javascript-cheatsheet">https://github.com/iLoveCodingOrg/javascript-cheatsheet</a></li>
   </ul>
   <br>
     
@@ -97,7 +97,7 @@
   </h2>
   <p>Incluye UX, UI, Figma, colors</p>
   <ul>
-    <li><a target="_blank" href="https://www.uxdatabase.io/free-product-design-course">https://www.uxdatabase.io/free-product-design-course</a></li><li><a target="_blank" href="https://es.coursera.org/professional-certificates/google-ux-design">https://es.coursera.org/professional-certificates/google-ux-design</a></li><li><a target="_blank" href="https://www.figma.com/resources/learn-design/">https://www.figma.com/resources/learn-design/</a></li><li><a target="_blank" href="https://www.refactoringui.com/book">https://www.refactoringui.com/book</a></li><li><a target="_blank" href="https://fffuel.co/pppalette/">https://fffuel.co/pppalette/</a></li>
+    <li><a target="_blank" href="https://www.uxdatabase.io/free-product-design-course">https://www.uxdatabase.io/free-product-design-course</a></li><li><a target="_blank" href="https://es.coursera.org/professional-certificates/google-ux-design">https://es.coursera.org/professional-certificates/google-ux-design</a></li><li><a target="_blank" href="https://www.figma.com/resources/learn-design/">https://www.figma.com/resources/learn-design/</a></li><li><a target="_blank" href="https://www.refactoringui.com/book">https://www.refactoringui.com/book</a></li><li><a target="_blank" href="https://fffuel.co/pppalette/">https://fffuel.co/pppalette/</a></li><li><a target="_blank" href="https://www.checklist.design/">https://www.checklist.design/</a></li>
   </ul>
   <br>
     
@@ -340,7 +340,7 @@
   </h2>
   <p>Incluye Design</p>
   <ul>
-    <li><a target="_blank" href="https://github.com/glrodasz/cero-components">https://github.com/glrodasz/cero-components</a></li><li><a target="_blank" href="https://designsystemsrepo.com/">https://designsystemsrepo.com/</a></li><li><a target="_blank" href="https://www.carbondesignsystem.com/">https://www.carbondesignsystem.com/</a></li><li><a target="_blank" href="https://github.com/holaluz/margarita">https://github.com/holaluz/margarita</a></li><li><a target="_blank" href="https://ui.supabase.io/">https://ui.supabase.io/</a></li><li><a target="_blank" href="https://vercel.com/design">https://vercel.com/design</a></li>
+    <li><a target="_blank" href="https://github.com/glrodasz/cero-components">https://github.com/glrodasz/cero-components</a></li><li><a target="_blank" href="https://designsystemsrepo.com/">https://designsystemsrepo.com/</a></li><li><a target="_blank" href="https://www.carbondesignsystem.com/">https://www.carbondesignsystem.com/</a></li><li><a target="_blank" href="https://github.com/holaluz/margarita">https://github.com/holaluz/margarita</a></li><li><a target="_blank" href="https://ui.supabase.io/">https://ui.supabase.io/</a></li><li><a target="_blank" href="https://vercel.com/design">https://vercel.com/design</a></li><li><a target="_blank" href="https://histoire.dev/">https://histoire.dev/</a></li>
   </ul>
   <br>
     
