@@ -1,6 +1,6 @@
 ![aparece una foto de pablo sirera y el texto desarrollador web](https://res.cloudinary.com/de5xzoviz/image/upload/v1650463806/recursos-repositorio.png)
 
-# Recursos Web 🔖  (WIP)
+# Recursos Web 🔖
 > Una lista de recursos web que suelo usar habitualmente y recomiendo.
 
 ## Tabla de contenidos
@@ -196,7 +196,7 @@
   </h2>
   <p>Incluye CSS, css frameworks</p>
   <ul>
-    <li><a target="_blank" href="https://github.com/rogden/tailwind-config-viewer">https://github.com/rogden/tailwind-config-viewer</a></li><li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://www.hyperui.dev/">Free Open Source Tailwind CSS Components</a></li><li><a target="_blank" href="https://preline.co/index.html">https://preline.co/index.html</a></li>
+    <li><a target="_blank" href="https://github.com/rogden/tailwind-config-viewer">https://github.com/rogden/tailwind-config-viewer</a></li><li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://www.hyperui.dev/">Free Open Source Tailwind CSS Components</a></li><li><a target="_blank" href="https://preline.co/index.html">https://preline.co/index.html</a></li><li><a target="_blank" href="https://tailwindcomponents.com/cheatsheet/">Cheatsheet Tailwind CSS con todas las utilidades fácilmente accesibles</a></li>
   </ul>
   <br>
     
@@ -322,7 +322,7 @@
   </h2>
   <p>Incluye JavaScript, regex, images</p>
   <ul>
-    <li><a target="_blank" href="https://keycode.info/">https://keycode.info/</a></li><li><a target="_blank" href="https://uppy.io/">https://uppy.io/</a></li><li><a target="_blank" href="https://regexr.com/">https://regexr.com/</a></li>
+    <li><a target="_blank" href="https://keycode.info/">https://keycode.info/</a></li><li><a target="_blank" href="https://uppy.io/">https://uppy.io/</a></li><li><a target="_blank" href="https://regexr.com/">https://regexr.com/</a></li><li><a target="_blank" href="https://developertoolbox.app/">Utilidades gratuitas para desarrolladores.</a></li>
   </ul>
   <br>
     
