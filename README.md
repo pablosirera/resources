@@ -97,7 +97,7 @@
   </h2>
   <p>Incluye UX, UI, Figma, colors</p>
   <ul>
-    <li><a target="_blank" href="https://www.uxdatabase.io/free-product-design-course">https://www.uxdatabase.io/free-product-design-course</a></li><li><a target="_blank" href="https://es.coursera.org/professional-certificates/google-ux-design">https://es.coursera.org/professional-certificates/google-ux-design</a></li><li><a target="_blank" href="https://www.figma.com/resources/learn-design/">https://www.figma.com/resources/learn-design/</a></li><li><a target="_blank" href="https://www.refactoringui.com/book">https://www.refactoringui.com/book</a></li><li><a target="_blank" href="https://fffuel.co/pppalette/">https://fffuel.co/pppalette/</a></li><li><a target="_blank" href="https://www.checklist.design/">https://www.checklist.design/</a></li>
+    <li><a target="_blank" href="https://www.uxdatabase.io/free-product-design-course">https://www.uxdatabase.io/free-product-design-course</a></li><li><a target="_blank" href="https://es.coursera.org/professional-certificates/google-ux-design">https://es.coursera.org/professional-certificates/google-ux-design</a></li><li><a target="_blank" href="https://www.figma.com/resources/learn-design/">https://www.figma.com/resources/learn-design/</a></li><li><a target="_blank" href="https://www.refactoringui.com/book">https://www.refactoringui.com/book</a></li><li><a target="_blank" href="https://fffuel.co/pppalette/">https://fffuel.co/pppalette/</a></li><li><a target="_blank" href="https://www.checklist.design/">https://www.checklist.design/</a></li><li><a target="_blank" href="https://penpot.app/">https://penpot.app/</a></li>
   </ul>
   <br>
     
@@ -115,7 +115,7 @@
   </h2>
   <p>Incluye JavaScript</p>
   <ul>
-    <li><a target="_blank" href="https://exploringjs.com/impatient-js/">https://exploringjs.com/impatient-js/</a></li><li><a target="_blank" href="https://eloquentjs-es.thedojo.mx/">https://eloquentjs-es.thedojo.mx/</a></li><li><a target="_blank" href="https://ebooks.humanwhocodes.com/promises">https://ebooks.humanwhocodes.com/promises</a></li>
+    <li><a target="_blank" href="https://exploringjs.com/impatient-js/">https://exploringjs.com/impatient-js/</a></li><li><a target="_blank" href="https://eloquentjs-es.thedojo.mx/">https://eloquentjs-es.thedojo.mx/</a></li><li><a target="_blank" href="https://ebooks.humanwhocodes.com/promises">https://ebooks.humanwhocodes.com/promises</a></li><li><a target="_blank" href="https://ebooks.humanwhocodes.com/promises">https://ebooks.humanwhocodes.com/promises</a></li>
   </ul>
   <br>
     
