@@ -205,7 +205,7 @@
   </h2>
   <p>Incluye CSS, css frameworks</p>
   <ul>
-    <li><a target="_blank" href="https://github.com/rogden/tailwind-config-viewer">https://github.com/rogden/tailwind-config-viewer</a></li><li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://www.hyperui.dev/">Free Open Source Tailwind CSS Components</a></li><li><a target="_blank" href="https://preline.co/index.html">https://preline.co/index.html</a></li><li><a target="_blank" href="https://tailwindcomponents.com/cheatsheet/">Cheatsheet Tailwind CSS con todas las utilidades fácilmente accesibles</a></li>
+    <li><a target="_blank" href="https://github.com/rogden/tailwind-config-viewer">https://github.com/rogden/tailwind-config-viewer</a></li><li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://www.hyperui.dev/">Free Open Source Tailwind CSS Components</a></li><li><a target="_blank" href="https://preline.co/index.html">https://preline.co/index.html</a></li><li><a target="_blank" href="https://tailwindcomponents.com/cheatsheet/">Cheatsheet Tailwind CSS con todas las utilidades fácilmente accesibles</a></li><li><a target="_blank" href="https://flowbite.com/">https://flowbite.com/</a></li>
   </ul>
   <br>
     
