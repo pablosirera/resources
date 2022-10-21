@@ -14,7 +14,7 @@
   <h2 id="8babffd9-8631-407c-a1ae-f8d03cdc176a">
     🧮 Notion 
   </h2>
-  <p>Incluye </p>
+  <p>Incluye Organización</p>
   <ul>
     <li><a target="_blank" href="https://cursosnotion.com/">https://cursosnotion.com/</a></li>
   </ul>
@@ -205,7 +205,7 @@
   </h2>
   <p>Incluye Tools, CSS, images, svg</p>
   <ul>
-    <li><a target="_blank" href="https://heroicons.com/">https://heroicons.com/</a></li><li><a target="_blank" href="https://phosphoricons.com/">https://phosphoricons.com/</a></li><li><a target="_blank" href="https://fonts.google.com/icons?selected=Material+Icons">https://fonts.google.com/icons?selected=Material+Icons</a></li><li><a target="_blank" href="https://remixicon.com/">https://remixicon.com/</a></li><li><a target="_blank" href="https://akaricons.com/">https://akaricons.com/</a></li><li><a target="_blank" href="https://icons.getbootstrap.com/">https://icons.getbootstrap.com/</a></li><li><a target="_blank" href="https://super.so/icons">https://super.so/icons</a></li><li><a target="_blank" href="https://icones.js.org/">https://icones.js.org/</a></li>
+    <li><a target="_blank" href="https://heroicons.com/">https://heroicons.com/</a></li><li><a target="_blank" href="https://phosphoricons.com/">https://phosphoricons.com/</a></li><li><a target="_blank" href="https://fonts.google.com/icons?selected=Material+Icons">https://fonts.google.com/icons?selected=Material+Icons</a></li><li><a target="_blank" href="https://remixicon.com/">https://remixicon.com/</a></li><li><a target="_blank" href="https://akaricons.com/">https://akaricons.com/</a></li><li><a target="_blank" href="https://icons.getbootstrap.com/">https://icons.getbootstrap.com/</a></li><li><a target="_blank" href="https://super.so/icons">https://super.so/icons</a></li><li><a target="_blank" href="https://icones.js.org/">https://icones.js.org/</a></li><li><a target="_blank" href="https://feathericons.com/">https://feathericons.com/</a></li>
   </ul>
   <br>
     
@@ -367,7 +367,7 @@
   </h2>
   <p>Incluye HTML, utils</p>
   <ul>
-    <li><a target="_blank" href="https://domevents.dev/">https://domevents.dev/</a></li><li><a target="_blank" href="https://caninclude.glitch.me/">https://caninclude.glitch.me/</a></li><li><a target="_blank" href="https://metatags.io/">https://metatags.io/</a></li><li><a target="_blank" href="https://www.typeform.com/es/">https://www.typeform.com/es/</a></li>
+    <li><a target="_blank" href="https://domevents.dev/">https://domevents.dev/</a></li><li><a target="_blank" href="https://caninclude.glitch.me/">https://caninclude.glitch.me/</a></li><li><a target="_blank" href="https://metatags.io/">https://metatags.io/</a></li><li><a target="_blank" href="https://www.typeform.com/es/">https://www.typeform.com/es/</a></li><li><a target="_blank" href="https://htmlreference.io/">https://htmlreference.io/</a></li>
   </ul>
   <br>
     
