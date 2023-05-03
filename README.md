@@ -187,7 +187,7 @@
   </h2>
   <p>Incluye Tools, JavaScript, open source</p>
   <ul>
-    <li><a target="_blank" href="https://www.thecocktaildb.com/api.php">https://www.thecocktaildb.com/api.php</a></li><li><a target="_blank" href="https://imgflip.com/api">https://imgflip.com/api</a></li><li><a target="_blank" href="https://apis.guru/">https://apis.guru/</a></li><li><a target="_blank" href="https://api.nasa.gov/">NASA Open APIs</a></li><li><a target="_blank" href="https://lorem.space/">API for placeholder images</a></li>
+    <li><a target="_blank" href="https://www.thecocktaildb.com/api.php">https://www.thecocktaildb.com/api.php</a></li><li><a target="_blank" href="https://imgflip.com/api">https://imgflip.com/api</a></li><li><a target="_blank" href="https://apis.guru/">https://apis.guru/</a></li><li><a target="_blank" href="https://api.nasa.gov/">NASA Open APIs</a></li><li><a target="_blank" href="https://lorem.space/">API for placeholder images</a></li><li><a target="_blank" href="https://jsonplaceholder.typicode.com/">Free Fake REST API</a></li>
   </ul>
   <br>
     
