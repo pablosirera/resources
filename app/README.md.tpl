@@ -6,4 +6,6 @@
 ## Tabla de contenidos
 %{{categories}}%
 
+---
+
 %{{resources}}%

@@ -9,7 +9,10 @@ const { DATABASE_ID, NOTION_SECRET_KEY } = process.env
 
 const generateCategoriesHTML = (resources) => {
   const list = resources.map(resource => {
-    const { name, id } = resource
+    const { name, id, icon } = resource
+    if (icon) {
+      return `<li><a href="#${id}">${icon} ${name}</a></li>`
+    }
     return `<li><a href="#${id}">${name}</a></li>`
   })
 
@@ -87,7 +90,7 @@ const generateResourcesHTML = (resources) => {
     resources.push(resourcesItem)
   }
 
-  const allResources = generateResourcesHTML(resources)
+  const allResources = generateResourcesHTML(resources.sort((a, b) => a.name.localeCompare(b.name)))
   const allCategories = generateCategoriesHTML(resources)
 
   const template = await fs.readFile('./app/README.md.tpl', { encoding: 'utf-8' })
