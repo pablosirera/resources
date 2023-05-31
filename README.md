@@ -90,7 +90,7 @@
   </h2>
   <p>Incluye otros, Tools</p>
   <ul>
-    <li><a target="_blank" href="https://www.kapwing.com/tools/montage-maker">Montage Maker - editor online rápido</a></li><li><a target="_blank" href="https://ssstik.io/">Descargar videos de tiktok sin marca de agua</a></li><li><a target="_blank" href="https://hashtagstack.com/hashtag-generator">Generador de hashtags</a></li><li><a target="_blank" href="https://ncs.io/">Música free sin copyright</a></li><li><a target="_blank" href="https://www.clickasnap.com/">Plataforma para generar ingresos por las fotos que subas</a></li><li><a target="_blank" href="https://streamladder.com/">StreamLadder - convertir videos para tiktok, reels o youtube shorts</a></li><li><a target="_blank" href="https://www.capcut.com/">Editor de video gratuito</a></li><li><a target="_blank" href="https://snapinsta.app/">Descargar videos de Instagram sin marca de agua</a></li><li><a target="_blank" href="https://contentdrips.com/">Diseña posts para RRSS gratis → </a></li><li><a target="_blank" href="https://www.thumbzstudio.com/">Crea miniaturas fácil y con templates gratis → </a></li>
+    <li><a target="_blank" href="https://www.kapwing.com/tools/montage-maker">Montage Maker - editor online rápido</a></li><li><a target="_blank" href="https://ssstik.io/">Descargar videos de tiktok sin marca de agua</a></li><li><a target="_blank" href="https://hashtagstack.com/hashtag-generator">Generador de hashtags</a></li><li><a target="_blank" href="https://ncs.io/">Música free sin copyright</a></li><li><a target="_blank" href="https://www.clickasnap.com/">Plataforma para generar ingresos por las fotos que subas</a></li><li><a target="_blank" href="https://streamladder.com/">StreamLadder - convertir videos para tiktok, reels o youtube shorts</a></li><li><a target="_blank" href="https://www.capcut.com/">Editor de video gratuito</a></li><li><a target="_blank" href="https://snapinsta.app/">Descargar videos de Instagram sin marca de agua</a></li><li><a target="_blank" href="https://contentdrips.com/">Diseña posts para RRSS gratis → </a></li><li><a target="_blank" href="https://www.thumbzstudio.com/">Crea miniaturas fácil y con templates gratis → </a></li><li><a target="_blank" href="https://rayhollister.com/tiktok-safe-area-templates/">https://rayhollister.com/tiktok-safe-area-templates/</a></li>
   </ul>
   <br>
     
@@ -297,7 +297,7 @@
   </h2>
   <p>Incluye Others</p>
   <ul>
-    <li><a target="_blank" href="https://www.getrevue.co/profile/helleworld_">https://www.getrevue.co/profile/helleworld_</a></li><li><a target="_blank" href="https://www.getrevue.co/profile/carlosazaustre">https://www.getrevue.co/profile/carlosazaustre</a></li><li><a target="_blank" href="https://www.getrevue.co/profile/baumannzone">https://www.getrevue.co/profile/baumannzone</a></li>
+    <li><a target="_blank" href="https://www.getrevue.co/profile/helleworld_">https://www.getrevue.co/profile/helleworld_</a></li><li><a target="_blank" href="https://www.getrevue.co/profile/carlosazaustre">https://www.getrevue.co/profile/carlosazaustre</a></li><li><a target="_blank" href="https://www.getrevue.co/profile/baumannzone">https://www.getrevue.co/profile/baumannzone</a></li><li><a target="_blank" href="https://weekly-vue.news/">https://weekly-vue.news/</a></li>
   </ul>
   <br>
     
@@ -315,7 +315,7 @@
   </h2>
   <p>Incluye Vue.js, NuxtJS</p>
   <ul>
-    <li><a target="_blank" href="https://nuxt.new/">https://nuxt.new/</a></li>
+    <li><a target="_blank" href="https://nuxt.new/">https://nuxt.new/</a></li><li><a target="_blank" href="https://v2.nuxt.com/video-courses/">https://v2.nuxt.com/video-courses/</a></li>
   </ul>
   <br>
     
