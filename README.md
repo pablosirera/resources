@@ -351,7 +351,7 @@
   </h2>
   <p>Incluye React</p>
   <ul>
-    <li><a target="_blank" href="https://egghead.io/courses/the-beginner-s-guide-to-react">https://egghead.io/courses/the-beginner-s-guide-to-react</a></li><li><a target="_blank" href="https://github.com/airbnb/javascript/tree/master/react">https://github.com/airbnb/javascript/tree/master/react</a></li><li><a target="_blank" href="http://airbnb.io/javascript/react/">http://airbnb.io/javascript/react/</a></li><li><a target="_blank" href="https://horizon-ui.com/">Open source Admin Template for React.</a></li>
+    <li><a target="_blank" href="https://egghead.io/courses/the-beginner-s-guide-to-react">https://egghead.io/courses/the-beginner-s-guide-to-react</a></li><li><a target="_blank" href="https://github.com/airbnb/javascript/tree/master/react">https://github.com/airbnb/javascript/tree/master/react</a></li><li><a target="_blank" href="http://airbnb.io/javascript/react/">http://airbnb.io/javascript/react/</a></li><li><a target="_blank" href="https://horizon-ui.com/">Open source Admin Template for React.</a></li><li><a target="_blank" href="https://www.reactjs.wiki/">React.js Wiki - Preguntas típicas sobre React.js con respuesta y solución</a></li>
   </ul>
   <br>
     
