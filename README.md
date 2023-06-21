@@ -297,7 +297,7 @@
   </h2>
   <p>Incluye Others</p>
   <ul>
-    <li><a target="_blank" href="https://www.getrevue.co/profile/helleworld_">https://www.getrevue.co/profile/helleworld_</a></li><li><a target="_blank" href="https://www.getrevue.co/profile/carlosazaustre">https://www.getrevue.co/profile/carlosazaustre</a></li><li><a target="_blank" href="https://www.getrevue.co/profile/baumannzone">https://www.getrevue.co/profile/baumannzone</a></li><li><a target="_blank" href="https://weekly-vue.news/">https://weekly-vue.news/</a></li>
+    <li><a target="_blank" href="https://weekly-vue.news/">https://weekly-vue.news/</a></li><li><a target="_blank" href="https://www.noticias.dev/">https://www.noticias.dev/</a></li><li><a target="_blank" href="https://dev.to/newsletter">https://dev.to/newsletter</a></li>
   </ul>
   <br>
     
