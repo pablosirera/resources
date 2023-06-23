@@ -117,7 +117,7 @@
   </h2>
   <p>Incluye Design</p>
   <ul>
-    <li><a target="_blank" href="https://github.com/glrodasz/cero-components">https://github.com/glrodasz/cero-components</a></li><li><a target="_blank" href="https://designsystemsrepo.com/">https://designsystemsrepo.com/</a></li><li><a target="_blank" href="https://www.carbondesignsystem.com/">https://www.carbondesignsystem.com/</a></li><li><a target="_blank" href="https://github.com/holaluz/margarita">https://github.com/holaluz/margarita</a></li><li><a target="_blank" href="https://ui.supabase.io/">https://ui.supabase.io/</a></li><li><a target="_blank" href="https://vercel.com/design">https://vercel.com/design</a></li><li><a target="_blank" href="https://histoire.dev/">https://histoire.dev/</a></li>
+    <li><a target="_blank" href="https://github.com/glrodasz/cero-components">https://github.com/glrodasz/cero-components</a></li><li><a target="_blank" href="https://designsystemsrepo.com/">https://designsystemsrepo.com/</a></li><li><a target="_blank" href="https://www.carbondesignsystem.com/">https://www.carbondesignsystem.com/</a></li><li><a target="_blank" href="https://github.com/holaluz/margarita">https://github.com/holaluz/margarita</a></li><li><a target="_blank" href="https://ui.supabase.io/">https://ui.supabase.io/</a></li><li><a target="_blank" href="https://vercel.com/design">https://vercel.com/design</a></li><li><a target="_blank" href="https://histoire.dev/">https://histoire.dev/</a></li><li><a target="_blank" href="https://thedesignsystem.guide/resources">https://thedesignsystem.guide/resources</a></li>
   </ul>
   <br>
     
