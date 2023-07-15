@@ -90,7 +90,7 @@
   </h2>
   <p>Incluye CSS, JavaScript</p>
   <ul>
-    <li><a target="_blank" href="https://codepen.io/nicolasjesenberger/pen/jOeRMeK">https://codepen.io/nicolasjesenberger/pen/jOeRMeK</a></li>
+    <li><a target="_blank" href="https://codepen.io/nicolasjesenberger/pen/jOeRMeK">Spicy Slider - HTML + CSS + JS</a></li>
   </ul>
   <br>
     
