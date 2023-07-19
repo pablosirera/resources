@@ -90,7 +90,7 @@
   </h2>
   <p>Incluye CSS, JavaScript</p>
   <ul>
-    <li><a target="_blank" href="https://codepen.io/nicolasjesenberger/pen/jOeRMeK">Spicy Slider - HTML + CSS + JS</a></li>
+    <li><a target="_blank" href="https://codepen.io/nicolasjesenberger/pen/jOeRMeK">Spicy Slider - HTML + CSS + JS</a></li><li><a target="_blank" href="https://codepen.io/RAFA3L/pen/QWJOmrL">For The Love Of Coffee</a></li>
   </ul>
   <br>
     
@@ -135,7 +135,7 @@
   </h2>
   <p>Incluye JavaScript, CSS, HTML</p>
   <ul>
-    <li><a target="_blank" href="https://t.co/pvCT7FlwqB?amp=1">https://t.co/pvCT7FlwqB?amp=1</a></li><li><a target="_blank" href="https://t.co/7btIKemWDl?amp=1">https://t.co/7btIKemWDl?amp=1</a></li><li><a target="_blank" href="https://t.co/32EKRkXtzn?amp=1">https://t.co/32EKRkXtzn?amp=1</a></li><li><a target="_blank" href="https://t.co/zGtq9ZvDI7?amp=1">https://t.co/zGtq9ZvDI7?amp=1</a></li><li><a target="_blank" href="https://retos.dev/">https://retos.dev/</a></li><li><a target="_blank" href="https://www.frontendmentor.io/challenges">https://www.frontendmentor.io/challenges</a></li><li><a target="_blank" href="https://www.codewars.com/">https://www.codewars.com/</a></li><li><a target="_blank" href="https://github.com/luanribeiros/daily-code">https://github.com/luanribeiros/daily-code</a></li><li><a target="_blank" href="https://devchallenges.io/">https://devchallenges.io/</a></li><li><a target="_blank" href="https://aprendejavascript.dev/">https://aprendejavascript.dev/</a></li><li><a target="_blank" href="https://nodeschool.io/es/">https://nodeschool.io/es/</a></li><li><a target="_blank" href="https://retosdeprogramacion.com/">https://retosdeprogramacion.com/</a></li><li><a target="_blank" href="https://codember.dev/">https://codember.dev/</a></li>
+    <li><a target="_blank" href="https://t.co/pvCT7FlwqB?amp=1">https://t.co/pvCT7FlwqB?amp=1</a></li><li><a target="_blank" href="https://t.co/7btIKemWDl?amp=1">https://t.co/7btIKemWDl?amp=1</a></li><li><a target="_blank" href="https://t.co/32EKRkXtzn?amp=1">https://t.co/32EKRkXtzn?amp=1</a></li><li><a target="_blank" href="https://t.co/zGtq9ZvDI7?amp=1">https://t.co/zGtq9ZvDI7?amp=1</a></li><li><a target="_blank" href="https://retos.dev/">https://retos.dev/</a></li><li><a target="_blank" href="https://www.frontendmentor.io/challenges">https://www.frontendmentor.io/challenges</a></li><li><a target="_blank" href="https://www.codewars.com/">https://www.codewars.com/</a></li><li><a target="_blank" href="https://github.com/luanribeiros/daily-code">https://github.com/luanribeiros/daily-code</a></li><li><a target="_blank" href="https://devchallenges.io/">https://devchallenges.io/</a></li><li><a target="_blank" href="https://aprendejavascript.dev/">https://aprendejavascript.dev/</a></li><li><a target="_blank" href="https://nodeschool.io/es/">https://nodeschool.io/es/</a></li><li><a target="_blank" href="https://retosdeprogramacion.com/">https://retosdeprogramacion.com/</a></li><li><a target="_blank" href="https://codember.dev/">https://codember.dev/</a></li><li><a target="_blank" href="https://pruebastecnicas.com/">Practica tus habilidades en programación con pruebas técnicas de empresas reales → pruebastecnicas . com</a></li>
   </ul>
   <br>
     
@@ -261,7 +261,7 @@
   </h2>
   <p>Incluye JavaScript, Frontend, Tools</p>
   <ul>
-    <li><a target="_blank" href="https://www.npmjs.com/package/canvas-confetti">Animación de confeti en el navegador → </a></li>
+    <li><a target="_blank" href="https://www.npmjs.com/package/canvas-confetti">Animación de confeti en el navegador → </a></li><li><a target="_blank" href="https://driverjs.com/">Biblioteca en Vanilla JS que permite crear tours de usuarios (onboardings).</a></li>
   </ul>
   <br>
     
