@@ -288,7 +288,7 @@
   </h2>
   <p>Incluye Tools, JavaScript</p>
   <ul>
-    <li><a target="_blank" href="https://developers.google.com/maps/documentation/maps-static/overview">https://developers.google.com/maps/documentation/maps-static/overview</a></li><li><a target="_blank" href="https://www.mapbox.com/maps/streets">https://www.mapbox.com/maps/streets</a></li><li><a target="_blank" href="https://leafletjs.com/">https://leafletjs.com/</a></li>
+    <li><a target="_blank" href="https://developers.google.com/maps/documentation/maps-static/overview">https://developers.google.com/maps/documentation/maps-static/overview</a></li><li><a target="_blank" href="https://www.mapbox.com/maps/streets">https://www.mapbox.com/maps/streets</a></li><li><a target="_blank" href="https://leafletjs.com/">https://leafletjs.com/</a></li><li><a target="_blank" href="https://chartkick.com/mapkick-js">https://chartkick.com/mapkick-js</a></li>
   </ul>
   <br>
     
@@ -306,7 +306,7 @@
   </h2>
   <p>Incluye Others</p>
   <ul>
-    <li><a target="_blank" href="https://weekly-vue.news/">https://weekly-vue.news/</a></li><li><a target="_blank" href="https://www.noticias.dev/">https://www.noticias.dev/</a></li><li><a target="_blank" href="https://dev.to/newsletter">https://dev.to/newsletter</a></li><li><a target="_blank" href="https://javascriptweekly.com/">https://javascriptweekly.com/</a></li>
+    <li><a target="_blank" href="https://weekly-vue.news/">https://weekly-vue.news/</a></li><li><a target="_blank" href="https://www.noticias.dev/">https://www.noticias.dev/</a></li><li><a target="_blank" href="https://dev.to/newsletter">https://dev.to/newsletter</a></li><li><a target="_blank" href="https://javascriptweekly.com/">https://javascriptweekly.com/</a></li><li><a target="_blank" href="https://www.cuarzo.dev/">https://www.cuarzo.dev/</a></li><li><a target="_blank" href="https://www.dailycodingproblem.com/">https://www.dailycodingproblem.com/</a></li>
   </ul>
   <br>
     
