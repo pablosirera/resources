@@ -252,7 +252,7 @@
   </h2>
   <p>Incluye Platforms, Design</p>
   <ul>
-    <li><a target="_blank" href="https://dribbble.com/">Dribble - Discover the top designers and creative professionals</a></li><li><a target="_blank" href="https://www.siteinspire.com/">Siteinspire - Web design inspiration</a></li><li><a target="_blank" href="https://www.awwwards.com/websites/">Awwwards - winning websites</a></li><li><a target="_blank" href="https://www.webdesign-inspiration.com/">Web design inspiration - the best website design inspiration gallery</a></li><li><a target="_blank" href="https://bestwebsite.gallery/sites">Bestwebsite - The most beautiful websites handpicked for you</a></li>
+    <li><a target="_blank" href="https://dribbble.com/">Dribble - Discover the top designers and creative professionals</a></li><li><a target="_blank" href="https://www.siteinspire.com/">Siteinspire - Web design inspiration</a></li><li><a target="_blank" href="https://www.awwwards.com/websites/">Awwwards - winning websites</a></li><li><a target="_blank" href="https://www.webdesign-inspiration.com/">Web design inspiration - the best website design inspiration gallery</a></li><li><a target="_blank" href="https://bestwebsite.gallery/sites">Bestwebsite - The most beautiful websites handpicked for you</a></li><li><a target="_blank" href="https://html.to.design/home">Convierte cualquier web a un Figma totalmente editable - html to design</a></li>
   </ul>
   <br>
     
@@ -396,7 +396,7 @@
   </h2>
   <p>Incluye CSS, css frameworks</p>
   <ul>
-    <li><a target="_blank" href="https://github.com/rogden/tailwind-config-viewer">https://github.com/rogden/tailwind-config-viewer</a></li><li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://www.hyperui.dev/">HyperUI - Free Open Source Tailwind CSS Components</a></li><li><a target="_blank" href="https://preline.co/index.html">https://preline.co/index.html</a></li><li><a target="_blank" href="https://tailwindcomponents.com/cheatsheet/">Cheatsheet Tailwind CSS con todas las utilidades fácilmente accesibles</a></li><li><a target="_blank" href="https://flowbite.com/">https://flowbite.com/</a></li><li><a target="_blank" href="https://gradienty.codes/">https://gradienty.codes/</a></li>
+    <li><a target="_blank" href="https://github.com/rogden/tailwind-config-viewer">https://github.com/rogden/tailwind-config-viewer</a></li><li><a target="_blank" href="https://headlessui.dev/">https://headlessui.dev/</a></li><li><a target="_blank" href="https://daisyui.com/">https://daisyui.com/</a></li><li><a target="_blank" href="https://www.hyperui.dev/">HyperUI - Free Open Source Tailwind CSS Components</a></li><li><a target="_blank" href="https://preline.co/index.html">https://preline.co/index.html</a></li><li><a target="_blank" href="https://tailwindcomponents.com/cheatsheet/">Cheatsheet Tailwind CSS con todas las utilidades fácilmente accesibles</a></li><li><a target="_blank" href="https://flowbite.com/">https://flowbite.com/</a></li><li><a target="_blank" href="https://gradienty.codes/">https://gradienty.codes/</a></li><li><a target="_blank" href="https://uicolors.app/create">Genera paletas de colores con Tailwind css → uicolors . app</a></li>
   </ul>
   <br>
     
