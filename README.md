@@ -54,7 +54,7 @@
   </h2>
   <p>Incluye JavaScript, HTML, CSS, Blog</p>
   <ul>
-    <li><a target="_blank" href="https://docs.astro.build/es/tutorial/0-introduction/">https://docs.astro.build/es/tutorial/0-introduction/</a></li>
+    <li><a target="_blank" href="https://docs.astro.build/es/tutorial/0-introduction/">https://docs.astro.build/es/tutorial/0-introduction/</a></li><li><a target="_blank" href="https://github.com/markteekman/accessible-astro-starter">https://github.com/markteekman/accessible-astro-starter</a></li>
   </ul>
   <br>
     
