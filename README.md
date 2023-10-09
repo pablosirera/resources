@@ -189,7 +189,7 @@
   </h2>
   <p>Incluye Tools</p>
   <ul>
-    <li><a target="_blank" href="https://getterms.io/">https://getterms.io/</a></li>
+    <li><a target="_blank" href="https://getterms.io/">https://getterms.io/</a></li><li><a target="_blank" href="https://www.bannerbear.com/demos/github-social-preview-generator-tool/">https://www.bannerbear.com/demos/github-social-preview-generator-tool/</a></li>
   </ul>
   <br>
     
