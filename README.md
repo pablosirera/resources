@@ -243,7 +243,7 @@
   </h2>
   <p>Incluye illustrations, svg</p>
   <ul>
-    <li><a target="_blank" href="https://www.drawkit.com/">https://www.drawkit.com/</a></li><li><a target="_blank" href="https://undraw.co/illustrations">https://undraw.co/illustrations</a></li><li><a target="_blank" href="https://icons8.com/illustrations">https://icons8.com/illustrations</a></li><li><a target="_blank" href="https://error404.fun/">Ilustraciones gratuitas para las páginas 404.</a></li>
+    <li><a target="_blank" href="https://www.drawkit.com/">https://www.drawkit.com/</a></li><li><a target="_blank" href="https://undraw.co/illustrations">https://undraw.co/illustrations</a></li><li><a target="_blank" href="https://icons8.com/illustrations">https://icons8.com/illustrations</a></li><li><a target="_blank" href="https://error404.fun/">Ilustraciones gratuitas para las páginas 404.</a></li><li><a target="_blank" href="https://css-peeps.com/#">Ilustraciones al estilo Peeps solamente con CSS → css-peeps</a></li>
   </ul>
   <br>
     
