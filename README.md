@@ -414,7 +414,7 @@
   </h2>
   <p>Incluye JavaScript</p>
   <ul>
-    <li><a target="_blank" href="https://testing-playground.com/">Playground de testing para Testing Library</a></li><li><a target="_blank" href="https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-es.md">Guía completa para JavaScript y Node.js sobre buenas prácticas en testing</a></li><li><a target="_blank" href="https://docs.gitlab.com/ee/development/testing_guide/end_to_end/">https://docs.gitlab.com/ee/development/testing_guide/end_to_end/</a></li><li><a target="_blank" href="https://www.airtest.dev/">Generate unit tests using AI</a></li><li><a target="_blank" href="https://frontend-testing.org/">Libro con conceptos básicos de testing en frontend → frontend-testing</a></li>
+    <li><a target="_blank" href="https://testing-playground.com/">Playground de testing para Testing Library</a></li><li><a target="_blank" href="https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-es.md">Guía completa para JavaScript y Node.js sobre buenas prácticas en testing</a></li><li><a target="_blank" href="https://docs.gitlab.com/ee/development/testing_guide/end_to_end/">https://docs.gitlab.com/ee/development/testing_guide/end_to_end/</a></li><li><a target="_blank" href="https://www.airtest.dev/">Generate unit tests using AI</a></li><li><a target="_blank" href="https://frontend-testing.org/">Libro con conceptos básicos de testing en frontend → frontend-testing</a></li><li><a target="_blank" href="https://web.dev/learn/testing/welcome?hl=es-419">Curso introducción al testing por Google → web dev</a></li>
   </ul>
   <br>
     
