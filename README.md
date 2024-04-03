@@ -99,7 +99,7 @@
   </h2>
   <p>Incluye Tools</p>
   <ul>
-    <li><a target="_blank" href="https://ray.so/">https://ray.so/</a></li><li><a target="_blank" href="https://carbon.now.sh/">https://carbon.now.sh/</a></li><li><a target="_blank" href="https://chalk.ist/">https://chalk.ist/</a></li><li><a target="_blank" href="https://snappify.io/">https://snappify.io/</a></li><li><a target="_blank" href="https://codetoimg.com/">https://codetoimg.com/</a></li><li><a target="_blank" href="https://www.terminalgif.com/">https://www.terminalgif.com/</a></li><li><a target="_blank" href="https://kod.so/">https://kod.so/</a></li><li><a target="_blank" href="https://app.codeimage.dev/">https://app.codeimage.dev/</a></li>
+    <li><a target="_blank" href="https://ray.so/">https://ray.so/</a></li><li><a target="_blank" href="https://carbon.now.sh/">https://carbon.now.sh/</a></li><li><a target="_blank" href="https://chalk.ist/">https://chalk.ist/</a></li><li><a target="_blank" href="https://snappify.io/">https://snappify.io/</a></li><li><a target="_blank" href="https://codetoimg.com/">https://codetoimg.com/</a></li><li><a target="_blank" href="https://www.terminalgif.com/">https://www.terminalgif.com/</a></li><li><a target="_blank" href="https://kod.so/">https://kod.so/</a></li><li><a target="_blank" href="https://app.codeimage.dev/">https://app.codeimage.dev/</a></li><li><a target="_blank" href="https://snippetbuilder.com/">https://snippetbuilder.com/</a></li>
   </ul>
   <br>
     
