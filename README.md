@@ -216,7 +216,7 @@
   </h2>
   <p>Incluye Tools</p>
   <ul>
-    <li><a target="_blank" href="https://getterms.io/">https://getterms.io/</a></li><li><a target="_blank" href="https://www.bannerbear.com/demos/github-social-preview-generator-tool/">https://www.bannerbear.com/demos/github-social-preview-generator-tool/</a></li><li><a target="_blank" href="https://resumake.io/">Crea tu CV super rápido y sencillo → resumake</a></li>
+    <li><a target="_blank" href="https://getterms.io/">https://getterms.io/</a></li><li><a target="_blank" href="https://www.bannerbear.com/demos/github-social-preview-generator-tool/">https://www.bannerbear.com/demos/github-social-preview-generator-tool/</a></li><li><a target="_blank" href="https://resumake.io/">Crea tu CV super rápido y sencillo → resumake</a></li><li><a target="_blank" href="https://bannerify.co/tools/remove-bg">Herramienta para eliminar el fondo de las imagenes → bannerify</a></li>
   </ul>
   <br>
     
@@ -270,7 +270,7 @@
   </h2>
   <p>Incluye illustrations, svg</p>
   <ul>
-    <li><a target="_blank" href="https://www.drawkit.com/">https://www.drawkit.com/</a></li><li><a target="_blank" href="https://undraw.co/illustrations">https://undraw.co/illustrations</a></li><li><a target="_blank" href="https://icons8.com/illustrations">https://icons8.com/illustrations</a></li><li><a target="_blank" href="https://error404.fun/">Ilustraciones gratuitas para las páginas 404.</a></li><li><a target="_blank" href="https://css-peeps.com/#">Ilustraciones al estilo Peeps solamente con CSS → css-peeps</a></li>
+    <li><a target="_blank" href="https://www.drawkit.com/">https://www.drawkit.com/</a></li><li><a target="_blank" href="https://undraw.co/illustrations">https://undraw.co/illustrations</a></li><li><a target="_blank" href="https://icons8.com/illustrations">https://icons8.com/illustrations</a></li><li><a target="_blank" href="https://error404.fun/">Ilustraciones gratuitas para las páginas 404.</a></li><li><a target="_blank" href="https://css-peeps.com/#">Ilustraciones al estilo Peeps solamente con CSS → css-peeps</a></li><li><a target="_blank" href="https://alohe.github.io/avatars/">Avatares gratis para tus proyectos → alohe avatars</a></li>
   </ul>
   <br>
     
