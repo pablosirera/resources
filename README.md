@@ -459,7 +459,7 @@
   </h2>
   <p>Incluye TypeScript</p>
   <ul>
-    <li><a target="_blank" href="https://type-level-typescript.com/">https://type-level-typescript.com/</a></li><li><a target="_blank" href="https://typehero.dev/">https://typehero.dev/</a></li>
+    <li><a target="_blank" href="https://type-level-typescript.com/">https://type-level-typescript.com/</a></li><li><a target="_blank" href="https://typehero.dev/">https://typehero.dev/</a></li><li><a target="_blank" href="https://app.quicktype.io/">Convierte un JSON en los types o interfaces que necesites → quicktype io</a></li>
   </ul>
   <br>
     
