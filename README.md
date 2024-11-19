@@ -396,7 +396,7 @@
   </h2>
   <p>Incluye React</p>
   <ul>
-    <li><a target="_blank" href="https://egghead.io/courses/the-beginner-s-guide-to-react">https://egghead.io/courses/the-beginner-s-guide-to-react</a></li><li><a target="_blank" href="https://horizon-ui.com/">Open source Admin Template for React.</a></li><li><a target="_blank" href="https://www.reactjs.wiki/">React.js Wiki - Preguntas típicas sobre React.js con respuesta y solución</a></li><li><a target="_blank" href="https://www.tremor.so/">https://www.tremor.so/</a></li><li><a target="_blank" href="https://sonner.emilkowal.ski/">Toast component para React → sonner</a></li><li><a target="_blank" href="https://ui.aceternity.com/components">Componentes de moda para usar con React y Next → ui aceternity</a></li>
+    <li><a target="_blank" href="https://egghead.io/courses/the-beginner-s-guide-to-react">https://egghead.io/courses/the-beginner-s-guide-to-react</a></li><li><a target="_blank" href="https://horizon-ui.com/">Open source Admin Template for React.</a></li><li><a target="_blank" href="https://www.reactjs.wiki/">React.js Wiki - Preguntas típicas sobre React.js con respuesta y solución</a></li><li><a target="_blank" href="https://www.tremor.so/">https://www.tremor.so/</a></li><li><a target="_blank" href="https://sonner.emilkowal.ski/">Toast component para React → sonner</a></li><li><a target="_blank" href="https://ui.aceternity.com/components">Componentes de moda para usar con React y Next → ui aceternity</a></li><li><a target="_blank" href="https://kokonut.dev/">https://kokonut.dev/</a></li>
   </ul>
   <br>
     
