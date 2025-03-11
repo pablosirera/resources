@@ -216,7 +216,7 @@
   </h2>
   <p>Incluye Tools</p>
   <ul>
-    <li><a target="_blank" href="https://getterms.io/">https://getterms.io/</a></li><li><a target="_blank" href="https://www.bannerbear.com/demos/github-social-preview-generator-tool/">https://www.bannerbear.com/demos/github-social-preview-generator-tool/</a></li><li><a target="_blank" href="https://resumake.io/">Crea tu CV super rápido y sencillo → resumake</a></li><li><a target="_blank" href="https://bannerify.co/tools/remove-bg">Herramienta para eliminar el fondo de las imagenes → bannerify</a></li>
+    <li><a target="_blank" href="https://getterms.io/">https://getterms.io/</a></li><li><a target="_blank" href="https://www.bannerbear.com/demos/github-social-preview-generator-tool/">https://www.bannerbear.com/demos/github-social-preview-generator-tool/</a></li><li><a target="_blank" href="https://resumake.io/">Crea tu CV super rápido y sencillo → resumake</a></li><li><a target="_blank" href="https://bannerify.co/tools/remove-bg">Herramienta para eliminar el fondo de las imagenes → bannerify</a></li><li><a target="_blank" href="https://difftext.com/">Simple comparador de textos para ver las diferencias → difftext.com</a></li>
   </ul>
   <br>
     
