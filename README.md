@@ -306,7 +306,7 @@
   </h2>
   <p>Incluye JavaScript, Frontend, Tools</p>
   <ul>
-    <li><a target="_blank" href="https://www.npmjs.com/package/canvas-confetti">Animación de confeti en el navegador → </a></li><li><a target="_blank" href="https://driverjs.com/">Biblioteca en Vanilla JS que permite crear tours de usuarios (onboardings).</a></li><li><a target="_blank" href="https://github.com/williamtroup/Calendar.js">https://github.com/williamtroup/Calendar.js</a></li><li><a target="_blank" href="https://shiki.matsu.io/">Es un bonito Syntax Highlighter - Shiki</a></li><li><a target="_blank" href="https://www.npmjs.com/package/cally">Pequeño paquete de calendario - cally</a></li>
+    <li><a target="_blank" href="https://www.npmjs.com/package/canvas-confetti">Animación de confeti en el navegador → </a></li><li><a target="_blank" href="https://driverjs.com/">Biblioteca en Vanilla JS que permite crear tours de usuarios (onboardings).</a></li><li><a target="_blank" href="https://github.com/williamtroup/Calendar.js">https://github.com/williamtroup/Calendar.js</a></li><li><a target="_blank" href="https://shiki.matsu.io/">Es un bonito Syntax Highlighter - Shiki</a></li><li><a target="_blank" href="https://www.npmjs.com/package/cally">Pequeño paquete de calendario - cally</a></li><li><a target="_blank" href="https://www.william-troup.com/heat-js/">Heat Map librería para gráficas como contribuciones de github → william-troup.com/heat-js</a></li>
   </ul>
   <br>
     
