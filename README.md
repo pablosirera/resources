@@ -351,7 +351,7 @@
   </h2>
   <p>Incluye Tools, JavaScript</p>
   <ul>
-    <li><a target="_blank" href="https://developers.google.com/maps/documentation/maps-static/overview">https://developers.google.com/maps/documentation/maps-static/overview</a></li><li><a target="_blank" href="https://www.mapbox.com/maps/streets">https://www.mapbox.com/maps/streets</a></li><li><a target="_blank" href="https://leafletjs.com/">https://leafletjs.com/</a></li><li><a target="_blank" href="https://chartkick.com/mapkick-js">https://chartkick.com/mapkick-js</a></li>
+    <li><a target="_blank" href="https://developers.google.com/maps/documentation/maps-static/overview">https://developers.google.com/maps/documentation/maps-static/overview</a></li><li><a target="_blank" href="https://www.mapbox.com/maps/streets">https://www.mapbox.com/maps/streets</a></li><li><a target="_blank" href="https://leafletjs.com/">https://leafletjs.com/</a></li><li><a target="_blank" href="https://chartkick.com/mapkick-js">https://chartkick.com/mapkick-js</a></li><li><a target="_blank" href="https://mapcn.vercel.app/">https://mapcn.vercel.app/</a></li>
   </ul>
   <br>
     
@@ -387,7 +387,7 @@
   </h2>
   <p>Incluye Vue.js, NuxtJS</p>
   <ul>
-    <li><a target="_blank" href="https://nuxt.new/">https://nuxt.new/</a></li><li><a target="_blank" href="https://v2.nuxt.com/video-courses/">https://v2.nuxt.com/video-courses/</a></li><li><a target="_blank" href="https://ui.nuxt.com/">https://ui.nuxt.com/</a></li>
+    <li><a target="_blank" href="https://nuxt.new/">https://nuxt.new/</a></li><li><a target="_blank" href="https://v2.nuxt.com/video-courses/">https://v2.nuxt.com/video-courses/</a></li><li><a target="_blank" href="https://ui.nuxt.com/">https://ui.nuxt.com/</a></li><li><a target="_blank" href="https://github.com/nuxt/a11y">https://github.com/nuxt/a11y</a></li>
   </ul>
   <br>
     
